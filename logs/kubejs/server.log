@@ -1,0 +1,225 @@
+[00:08:11] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[00:08:11] [INIT] Loaded plugins:
+[00:08:11] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[00:08:11] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[00:08:11] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[00:08:11] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTPlugin
+[00:08:11] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTPlugin
+[00:08:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[00:08:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[00:08:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[00:08:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[00:08:11] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.KubePlugin
+[00:08:11] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[00:08:11] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[00:08:12] [INFO] server_scripts:banlist_script.js#9: Loaded Java class 'java.util.HashSet'
+[00:08:12] [INFO] server_scripts:banlist_script.js#10: Loaded Java class 'java.util.ArrayList'
+[00:08:12] [INFO] server_scripts:banlist_script.js#40: Loaded Java class 'net.neoforged.neoforge.event.entity.EntityJoinLevelEvent'
+[00:08:12] [INFO] server_scripts:banlist_script.js#69: Loaded Java class 'net.neoforged.neoforge.event.level.ChunkEvent$Load'
+[00:08:12] [INFO] server_scripts:banlist_script.js#70: Loaded Java class 'net.neoforged.neoforge.event.tick.LevelTickEvent$Pre'
+[00:08:12] [INFO] server_scripts:banlist_script.js#102: Loaded Java class 'net.minecraft.world.level.chunk.LevelChunk'
+[00:08:12] [INFO] server_scripts:banlist_script.js#104: Loaded Java class 'java.util.concurrent.ConcurrentLinkedQueue'
+[00:08:12] [INFO] Loaded script server_scripts:banlist_script.js in 0.093 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/remove_recipes_from_banlist.js in 0.011 s
+[00:08:12] [INFO] server_scripts:announcements/announcements.js#1: Loaded Java class 'java.util.TreeMap'
+[00:08:12] [INFO] server_scripts:announcements/announcements.js#3: Loaded Java class 'org.apache.maven.artifact.versioning.DefaultArtifactVersion'
+[00:08:12] [INFO] Loaded script server_scripts:announcements/announcements.js in 0.013 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/advancements.js in 0.009 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/atm_alloys.js in 0.006 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/atm_star.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.004 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/att_items.js in 0.002 s
+[00:08:12] [INFO] server_scripts:modpack/commands.js#6: Loaded Java class 'net.minecraft.world.level.ChunkPos'
+[00:08:12] [INFO] Loaded script server_scripts:modpack/commands.js in 0.006 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/mini_portals.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:modpack/miningDim.js in 0.007 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Actually Additions/Crusher.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Actually Additions/Fluid_Fuels.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Actually Additions/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Additional Lights/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/AdditionalEnchantedMiner/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/AdvancedAE/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Allthemodium/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/AllTheOres/Recipes.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/AllTheOres/Tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/AllTheTweaks/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Apotheosis/adventure.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Applied Energistics/Recipes.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Aquaculture_2/tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Building Gadgets/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Building Gadgets/tags.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Bumblezone/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Bumblezone/tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Cobblemon Utility/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Cobblemon/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Draconic Evolution/draconic_evo.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/EnderIO/Recipes.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/EnderIO/sagMill.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/enderman overhaul/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Eternal Starlight/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Explorer's Compass/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/ExtendedAE/InfinityCellRecipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Extra Disks/Recipes.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/ExtremeReactors/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Farmer's Delight/Compatibility.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Farmer's Delight/tags.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/ForbiddenArcanus/Hephaestus_Forge.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/ForbiddenArcanus/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Functional Storage/compacting_recipe.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Handcrafted/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Hostile Neural Networks/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Immersive Engineering/Compatibility.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Immersive Engineering/Crusher.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Indusrial Foregoing/Dissolution Chamber.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/industrialforegoingsouls/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Integrated Dynamics/Basin.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Integrated Dynamics/Squeezer.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/JustDireThings/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Laser Bridges & Doors/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mega Cells/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mekanism/Compatibility.js in 0.004 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mekanism/ore_processing.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mekanism/Rebalance/Gear.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mekanism/Rebalance/Items.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mekanism/Rebalance/Units.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mekanism/Recipes.js in 0.006 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/mekmm/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/mifa/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/minecraft/recipes.js in 0.009 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/minecraft/tags.js in 0.004 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Mining Gadgets/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/modularbees/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/ModularForceFieldSystem/recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/MysticalAgriculture/AwakenedEssenceCrafting.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/MysticalAgriculture/Compatibility.js in 0.011 s
+[00:08:12] [INFO] server_scripts:mods/MysticalAgriculture/Crops.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[00:08:12] [INFO] server_scripts:mods/MysticalAgriculture/Crops.js#5: Loaded Java class 'java.util.Objects'
+[00:08:12] [INFO] Loaded script server_scripts:mods/MysticalAgriculture/Crops.js in 0.008 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/MysticalAgriculture/FusionCrafting.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/MysticalAgriculture/Recipes.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/MysticalAgriculture/Tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Occultism/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Oritech/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Oritech/tags.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Pneumaticcraft/recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Pneumaticcraft/tags.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Powah/Energizing.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Powah/tags.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Productive Bees/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Productive Bees/Tags.js in 0.002 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Quarryplus/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Railcraft Reborn/tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Reliquary/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/rftools/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Silent Gear/Recipes.js in 0.001 s
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#149: Loaded Java class 'net.neoforged.neoforge.capabilities.Capabilities$ItemHandler'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#150: Loaded Java class 'net.neoforged.neoforge.items.ItemHandlerHelper'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#151: Loaded Java class 'com.simibubi.create.content.kinetics.crafter.MechanicalCrafterBlockEntity'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#207: Loaded Java class 'net.allthemods.allthemons.util.Region'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#208: Loaded Java class 'com.hollingsworth.arsnouveau.common.entity.EntityFollowProjectile'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#209: Loaded Java class 'net.minecraft.world.item.crafting.CraftingInput'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#210: Loaded Java class 'com.cobblemon.mod.common.api.pokedex.def.PokedexDef'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#211: Loaded Java class 'com.cobblemon.mod.common.api.pokedex.Dexes'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#254: Loaded Java class 'com.gitlab.srcmc.rctmod.api.RCTMod'
+[00:08:12] [INFO] server_scripts:mods/Summoning Rituals/recipes.js#463: Loaded Java class 'net.minecraft.world.level.block.Rotation'
+[00:08:12] [INFO] Loaded script server_scripts:mods/Summoning Rituals/recipes.js in 0.079 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Supplementaries/recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/The Bumblezone/Tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Theurgy/liquefaction.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Theurgy/tags.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Time In A Bottle/Recipes.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:mods/Utilitarian/Recipes.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/disable_biome_modifier.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/disable_loot_table.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/disable_mons.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/fix_death_bug.js in 0.001 s
+[00:08:12] [INFO] server_scripts:Tweaks/machines_unbreakable.js#1: Loaded Java class 'dev.latvian.mods.kubejs.util.Tags'
+[00:08:12] [INFO] server_scripts:Tweaks/machines_unbreakable.js#4: Loaded Java class 'net.neoforged.neoforge.event.entity.player.PlayerEvent$BreakSpeed'
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/machines_unbreakable.js in 0.012 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/recipes.js in 0.0 s
+[00:08:12] [INFO] server_scripts:Tweaks/recipes_fix.js#1: Loaded Java class 'com.google.common.base.Stopwatch'
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/recipes_fix.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/tags.js in 0.005 s
+[00:08:12] [INFO] server_scripts:Tweaks/unregister_pokecenters.js#1: Loaded Java class 'net.minecraft.core.registries.Registries'
+[00:08:12] [INFO] server_scripts:Tweaks/unregister_pokecenters.js#3: Loaded Java class 'net.neoforged.neoforge.event.server.ServerAboutToStartEvent'
+[00:08:12] [INFO] Loaded script server_scripts:Tweaks/unregister_pokecenters.js in 0.004 s
+[00:08:12] [INFO] Loaded script server_scripts:Unification/coke.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:Unification/crops.js in 0.001 s
+[00:08:12] [INFO] Loaded script server_scripts:Unification/gears.js in 0.0 s
+[00:08:12] [INFO] Loaded script server_scripts:Unification/ingots.js in 0.001 s
+[00:08:12] [INFO] server_scripts:Unification/sawing.js#52: Loaded Java class 'java.util.stream.Collectors'
+[00:08:12] [INFO] Loaded script server_scripts:Unification/sawing.js in 0.003 s
+[00:08:12] [INFO] Loaded script server_scripts:Unification/tools.js in 0.001 s
+[00:08:12] [INFO] server_scripts:validate_custom_quests.js#1: Loaded Java class 'dev.ftb.mods.ftbquests.api.FTBQuestsAPI'
+[00:08:12] [INFO] server_scripts:validate_custom_quests.js#3: Loaded Java class 'net.neoforged.neoforge.event.server.ServerStartedEvent'
+[00:08:12] [INFO] Loaded script server_scripts:validate_custom_quests.js in 0.002 s
+[00:08:12] [INFO] Loaded 111/111 KubeJS server scripts in 0.961 s with 0 errors and 0 warnings
+[00:08:25] [INFO] [minecraft:block_entity_type] Found 7 tags, added 3 objects, removed 0 objects
+[00:08:26] [INFO] [minecraft:fluid] Found 216 tags, added 2 objects, removed 0 objects
+[00:08:26] [INFO] [minecraft:worldgen/structure] Found 142 tags, added 0 objects, removed 1 objects
+[00:08:26] [INFO] [minecraft:enchantment] Found 66 tags, added 0 objects, removed 1 objects
+[00:08:26] [INFO] [minecraft:entity_type] Found 359 tags, added 179 objects, removed 0 objects
+[00:08:26] [INFO] [minecraft:worldgen/biome] Found 708 tags, added 4 objects, removed 1 objects
+[00:08:28] [INFO] [minecraft:block] Found 2632 tags, added 318 objects, removed 0 objects
+[00:08:28] [INFO] [minecraft:item] Found 4500 tags, added 281 objects, removed 2 objects
+[00:08:33] [INFO] server_scripts:Tweaks/recipes_fix.js#251: Fixing recipes took 418 ms...
+[00:08:37] [INFO] Processing recipes...
+[00:08:37] [INFO] Initializing recipe event...
+[00:08:37] [INFO] Recipe silentgear:cord_blueprint[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:37] [INFO] Recipe silentgear:necklace_template[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:38] [INFO] Recipe deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:38] [INFO] Recipe silentgear:ring_blueprint[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:38] [INFO] Recipe silentgear:binding_template[minecraft:crafting_shapeless] failed to parse due to an error on component: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[00:08:39] [INFO] Recipe silentgear:bracelet_template[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:39] [INFO] Recipe silentgear:grip_blueprint[minecraft:crafting_shapeless] failed to parse due to an error on component: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[00:08:39] [INFO] Recipe silentgear:ring_template[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:39] [INFO] Recipe deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:39] [INFO] Recipe silentgear:binding_blueprint[minecraft:crafting_shapeless] failed to parse due to an error on component: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[00:08:40] [INFO] Recipe silentgear:necklace_blueprint[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:40] [INFO] Recipe deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:40] [INFO] Recipe deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:40] [INFO] Recipe deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:40] [INFO] Recipe deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:40] [INFO] Recipe silentgear:grip_template[minecraft:crafting_shapeless] failed to parse due to an error on component: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[00:08:40] [INFO] Recipe silentgear:bracelet_blueprint[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:40] [INFO] Recipe deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:40] [INFO] Recipe silentgear:cord_template[minecraft:crafting_shaped] failed to parse due to an error on component: Invalid component key: pattern<ingredient> - Component 'ingredient' is not allowed to be empty!
+[00:08:40] [INFO] Recipe deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:41] [INFO] Recipe deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform] failed to parse due to an error on component: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[00:08:41] [INFO] Found 44,971 recipes (skipped 4,982) in 3.807 s
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#42: Loaded Java class 'java.util.stream.Stream'
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: draconicevolution:draconium_dust with resource: draconium
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: allthemodium:unobtainium_vibranium_alloy_dust with resource: unobtainium_vibranium_alloy
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: silentgear:azure_silver_dust with resource: azure_silver
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: immersiveengineering:dust_hop_graphite with resource: hop_graphite
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: allthemodium:vibranium_dust with resource: vibranium
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: occultism:iesnium_dust with resource: iesnium
+[00:08:44] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: allthemodium:unobtainium_dust with resource: unobtainium
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: silentgear:blaze_gold_dust with resource: blaze_gold
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: allthemodium:vibranium_allthemodium_alloy_dust with resource: vibranium_allthemodium_alloy
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: allthemodium:unobtainium_allthemodium_alloy_dust with resource: unobtainium_allthemodium_alloy
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: allthemodium:allthemodium_dust with resource: allthemodium
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: oritech:adamant_dust with resource: adamant
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: oritech:energite_dust with resource: energite
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: silentgear:azure_electrum_dust with resource: azure_electrum
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: oritech:duratium_dust with resource: duratium
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: silentgear:crimson_steel_dust with resource: crimson_steel
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: silentgear:crimson_iron_dust with resource: crimson_iron
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: draconicevolution:awakened_draconium_dust with resource: draconium_awakened
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: oritech:biosteel_dust with resource: biosteel
+[00:08:45] [INFO] server_scripts:mods/AllTheOres/Recipes.js#35: Adding dust recipe: silentgear:tyrian_steel_dust with resource: tyrian_steel
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"cataclysm:chorus_stem"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:acacia_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:oak_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"tag":"minecraft:bamboo_blocks"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:birch_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:mangrove_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:spruce_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:jungle_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:cherry_planks_1x"}
+[00:08:49] [INFO] server_scripts:Unification/sawing.js#97: Ingredient is not a log tag: {"item":"allthecompressed:dark_oak_planks_1x"}
+[00:08:49] [INFO] Posted recipe events in 8.521 s
+[00:08:50] [INFO] KubeJS modifications to recipe manager finished in 139.1 ms
+[00:09:13] [INFO] Added 966 recipes, removed 571 recipes, modified 91 recipes, with 0 failed recipes taking 36.301 s in total
+[00:09:44] [INFO] Server resource reload complete!
+[00:09:46] [INFO] Loaded Java class 'dev.wuffs.bcc.BetterCompatibilityChecker'

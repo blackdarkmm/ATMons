@@ -1,0 +1,46 @@
+[00:07:24] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[00:07:24] [INIT] Loaded plugins:
+[00:07:24] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[00:07:24] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[00:07:24] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[00:07:24] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTPlugin
+[00:07:24] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTPlugin
+[00:07:24] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[00:07:24] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[00:07:24] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[00:07:24] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[00:07:24] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.KubePlugin
+[00:07:24] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[00:07:24] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[00:07:27] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.36 s
+[00:07:27] [INFO] startup_scripts:catch_restrictions.js#1: Loaded Java class 'com.cobblemon.mod.common.Cobblemon'
+[00:07:27] [INFO] startup_scripts:catch_restrictions.js#2: Loaded Java class 'com.cobblemon.mod.common.api.events.CobblemonEvents'
+[00:07:27] [INFO] startup_scripts:catch_restrictions.js#131: Loaded Java class 'com.cobblemon.mod.common.api.pokedex.Dexes'
+[00:07:27] [INFO] startup_scripts:catch_restrictions.js#132: Loaded Java class 'net.allthemods.allthemons.util.Region'
+[00:07:27] [INFO] Loaded script startup_scripts:catch_restrictions.js in 0.193 s
+[00:07:27] [INFO] startup_scripts:cobblemon_quests.js#39: Loaded Java class 'dev.ftb.mods.ftbquests.api.FTBQuestsAPI'
+[00:07:27] [INFO] Loaded script startup_scripts:cobblemon_quests.js in 0.026 s
+[00:07:27] [INFO] startup_scripts:CustomAdditions.js#4: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[00:07:27] [INFO] startup_scripts:CustomAdditions.js#47: Loaded Java class 'com.google.common.base.Stopwatch'
+[00:07:27] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.043 s
+[00:07:27] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.005 s
+[00:07:27] [INFO] Loaded script startup_scripts:Farmer's Delight/Compatibility.js in 0.001 s
+[00:07:27] [INFO] startup_scripts:hyperbox/hyperbox.js#1: Loaded Java class 'net.neoforged.neoforge.event.entity.player.PlayerEvent$PlayerChangedDimensionEvent'
+[00:07:27] [INFO] Loaded script startup_scripts:hyperbox/hyperbox.js in 0.043 s
+[00:07:27] [INFO] Loaded script startup_scripts:incompatible_versions.js in 0.003 s
+[00:07:27] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.Chemical'
+[00:07:27] [INFO] startup_scripts:Mekanism/Compatibility.js#19: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
+[00:07:27] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.032 s
+[00:07:27] [INFO] startup_scripts:Shrink/polylib_fix.js#1: Loaded Java class 'net.creeperhost.polylib.init.DataComps'
+[00:07:27] [INFO] Loaded script startup_scripts:Shrink/polylib_fix.js in 0.004 s
+[00:07:27] [INFO] startup_scripts:Summoning Rituals/regional_pika_star_ritual_renderer.js#70: Loaded Java class 'net.minecraft.core.component.DataComponentType'
+[00:07:27] [INFO] startup_scripts:Summoning Rituals/regional_pika_star_ritual_renderer.js#71: Loaded Java class 'com.mojang.serialization.Codec'
+[00:07:27] [INFO] startup_scripts:Summoning Rituals/regional_pika_star_ritual_renderer.js#72: Loaded Java class 'net.minecraft.util.Unit'
+[00:07:27] [INFO] startup_scripts:Summoning Rituals/regional_pika_star_ritual_renderer.js#73: Loaded Java class 'net.minecraft.network.codec.StreamCodec'
+[00:07:28] [INFO] Loaded script startup_scripts:Summoning Rituals/regional_pika_star_ritual_renderer.js in 0.094 s
+[00:07:28] [INFO] Loaded script startup_scripts:Theurgy/SulfurAdditions.js in 0.002 s
+[00:07:28] [INFO] startup_scripts:update_checker.js#1: Loaded Java class 'org.apache.maven.artifact.versioning.DefaultArtifactVersion'
+[00:07:28] [INFO] startup_scripts:update_checker.js#2: Loaded Java class 'java.util.Locale'
+[00:07:28] [INFO] Loaded script startup_scripts:update_checker.js in 0.012 s
+[00:07:28] [INFO] Loaded 13/13 KubeJS startup scripts in 4.224 s with 0 errors and 0 warnings
+[00:07:29] [INFO] Validated 605 files in kubejs/data/ in 971ms
