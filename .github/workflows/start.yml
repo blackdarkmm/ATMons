@@ -119,8 +119,12 @@ jobs:
         env:
           ZT_NETWORK_ID: ${{ secrets.ZEROTIER_NETWORK_ID }}
         run: |
+          echo "🔄 確保背景行程穩定..."
+          sudo systemctl restart zerotier-one 
+          sleep 5 # 給它 5 秒鐘初始化剛匯入的身份檔案
+          
           echo "✅ 檢查 ZeroTier 服務是否啟動..."
-          for i in {1..10}; do
+          for i in {1..15}; do
             if sudo zerotier-cli info &>/dev/null; then
               echo "✅ ZeroTier 服務已啟動"
               break
