@@ -62,13 +62,13 @@ jobs:
           rclone copy gdrive3:ATMonsWorld1/world.tar.zst.00 ./ --progress
           rclone copy gdrive4:ATMonsWorld2/world.tar.zst.01 ./ --progress
 
-          cat world_backup.tar.zst.* | unzstd | tar -xf -
+          cat world.tar.zst.* | unzstd | tar -xf -
           echo "3. 檢查結果..."
           if [ -d "world" ]; then
             echo "成功！world 資料夾已就緒。"
             du -sh world/
           else
-            echo "錯誤：解壓失敗，請檢查雲端檔名是否為 world.tar.zst.aa"
+            echo "錯誤：解壓失敗，請檢查雲端檔名是否為 world.tar.zst.00"
             exit 1
           fi
       
