@@ -93,56 +93,25 @@ jobs:
           chmod +x install.sh
           sudo ./install.sh
 
-      - name: 匯入 ZeroTier 身份檔案（保證固定 IP）
-        run: |
-          sudo systemctl stop zerotier-one
-
-          echo "${{ secrets.ZT_IDENTITY_SECRET }}" | sudo tee /var/lib/zerotier-one/identity.secret > /dev/null
-          sudo chmod 600 /var/lib/zerotier-one/identity.secret
-
-          sudo systemctl start zerotier-one
-
-          echo "等待 identity.public 生成..."
-          for i in {1..10}; do
-            if [ -f /var/lib/zerotier-one/identity.public ]; then
-              echo "✅ identity.public 已生成"
-              break
-            fi
-            echo "⏳ identity.public 尚未出現，等待 1 秒..."
-            sleep 1
-          done
-
-          echo "目前身份："
-          sudo cat /var/lib/zerotier-one/identity.public || echo "⚠️ 無法讀取身份"
-
       - name: 加入 ZeroTier 網路
         env:
           ZT_NETWORK_ID: ${{ secrets.ZEROTIER_NETWORK_ID }}
         run: |
-          # 1. 先殺掉所有可能卡住的行程
-          sudo pkill -9 zerotier-one || true
-    
-          # 2. 手動在背景啟動守護行程並輸出日誌
-          sudo /usr/sbin/zerotier-one -d
-          sleep 5
-
-          echo "✅ 檢查目前正在運行的行程："
-          ps aux | grep zerotier
- 
-          echo "✅ 嘗試獲取服務資訊..."
-          for i in {1..15}; do
-            if sudo zerotier-cli info; then
-              echo "✅ ZeroTier 已成功回應 API 請求"
+          echo "✅ 檢查 ZeroTier 服務是否啟動..."
+          for i in {1..10}; do
+            if sudo zerotier-cli info &>/dev/null; then
+              echo "✅ ZeroTier 服務已啟動"
               break
             fi
-          # 如果第 5 次還是失敗，嘗試看最後幾行日誌
-          [ $i -eq 5 ] && sudo tail -n 20 /var/lib/zerotier-one/zerotier-one.log || true
-          echo "⏳ 等待 API 響應... ($i/15)"
-          sleep 3
+            echo "⏳ 等待 ZeroTier 服務啟動... ($i/10)"
+            sleep 2
           done
 
-          echo "🚀 嘗試加入網路：$ZT_NETWORK_ID"
-          sudo zerotier-cli join $ZT_NETWORK_ID
+          echo "🚀 嘗試加入 ZeroTier 網路：$ZT_NETWORK_ID"
+          sudo zerotier-cli join $ZT_NETWORK_ID || {
+            echo "❌ 加入 ZeroTier 網路失敗"
+            exit 1
+          }
 
           echo "🕓 等待 ZeroTier 成功連線..."
           for i in {1..20}; do
