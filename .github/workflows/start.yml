@@ -119,25 +119,30 @@ jobs:
         env:
           ZT_NETWORK_ID: ${{ secrets.ZEROTIER_NETWORK_ID }}
         run: |
-          echo "🔄 確保背景行程穩定..."
-          sudo systemctl restart zerotier-one 
-          sleep 5 # 給它 5 秒鐘初始化剛匯入的身份檔案
-          
-          echo "✅ 檢查 ZeroTier 服務是否啟動..."
+          # 1. 先殺掉所有可能卡住的行程
+          sudo pkill -9 zerotier-one || true
+    
+          # 2. 手動在背景啟動守護行程並輸出日誌
+          sudo /usr/sbin/zerotier-one -d
+          sleep 5
+
+          echo "✅ 檢查目前正在運行的行程："
+          ps aux | grep zerotier
+ 
+          echo "✅ 嘗試獲取服務資訊..."
           for i in {1..15}; do
-            if sudo zerotier-cli info &>/dev/null; then
-              echo "✅ ZeroTier 服務已啟動"
+            if sudo zerotier-cli info; then
+              echo "✅ ZeroTier 已成功回應 API 請求"
               break
             fi
-            echo "⏳ 等待 ZeroTier 服務啟動... ($i/10)"
-            sleep 2
+          # 如果第 5 次還是失敗，嘗試看最後幾行日誌
+          [ $i -eq 5 ] && sudo tail -n 20 /var/lib/zerotier-one/zerotier-one.log || true
+          echo "⏳ 等待 API 響應... ($i/15)"
+          sleep 3
           done
 
-          echo "🚀 嘗試加入 ZeroTier 網路：$ZT_NETWORK_ID"
-          sudo zerotier-cli join $ZT_NETWORK_ID || {
-            echo "❌ 加入 ZeroTier 網路失敗"
-            exit 1
-          }
+          echo "🚀 嘗試加入網路：$ZT_NETWORK_ID"
+          sudo zerotier-cli join $ZT_NETWORK_ID
 
           echo "🕓 等待 ZeroTier 成功連線..."
           for i in {1..20}; do
