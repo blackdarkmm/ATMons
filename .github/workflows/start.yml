@@ -71,6 +71,7 @@ jobs:
             echo "錯誤：解壓失敗，請檢查雲端檔名是否為 world.tar.zst.00"
             exit 1
           fi
+          rm world.tar.zst.*
       
       - name: 下載 Cobblemon-neoforge-1.7.3+1.21.1.jar（從 Google Drive）
         run: |
@@ -233,9 +234,10 @@ jobs:
       - name: 💾 備份階段：壓縮 (極限省空間)
         if: always() # 確保伺服器關閉後一定執行
         run: |
-  
           SOURCE_DIR="world"
-          tar -cf - world/ | zstd -T0 -3 | split -n 2 -d - world_backup.tar.zst.
+          tar -cf - "$SOURCE_DIR" | zstd -T0 -3 -o world_full.tar.zst
+          split -n 2 -d world_full.tar.zst world_backup.tar.zst.
+          rm world_full.tar.zst
 
       - name: 🚀 執行官方 Action 上傳 (保留 2 天)
         if: always()
