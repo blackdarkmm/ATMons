@@ -235,8 +235,8 @@ jobs:
         if: always() # 確保伺服器關閉後一定執行
         run: |
           SOURCE_DIR="world"
-          tar -cf - "$SOURCE_DIR" | zstd -T0 -3 -o world_full.tar.zst
-          split -n 2 -d world_full.tar.zst world_backup.tar.zst.
+          tar -cf - "$SOURCE_DIR" | zstd -T0 -3 -o world.tar.zst
+          split -n 2 -d world.tar.zst world.tar.zst.
           rm world_full.tar.zst
 
       - name: 🚀 執行官方 Action 上傳 (保留 2 天)
