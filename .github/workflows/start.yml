@@ -237,7 +237,7 @@ jobs:
           SOURCE_DIR="world"
           tar -cf - "$SOURCE_DIR" | zstd -T0 -3 -o world.tar.zst
           split -n 2 -d world.tar.zst world.tar.zst.
-          rm world_full.tar.zst
+          rm world.tar.zst
 
       - name: 🚀 執行官方 Action 上傳 (保留 2 天)
         if: always()
