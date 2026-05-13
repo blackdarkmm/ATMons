@@ -249,6 +249,7 @@ jobs:
           if-no-files-found: error
 
       - name: 終極空間優化：邊壓邊傳 (tar.zst 串流上傳)
+        if: always()
         run: |
 
           rclone delete gdrive3:ATMonsWorld1/ --include "world.tar.zst.*" --drive-use-trash=false
