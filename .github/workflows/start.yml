@@ -220,17 +220,6 @@ jobs:
           done
           echo "伺服器已關閉或到時，繼續下一步..."
 
-      - name: 📥 導出崩潰報告 (Artifact)
-        if: always() 
-        uses: actions/upload-artifact@v4
-        with:
-          name: minecraft-crash-reports
-          path: |
-            /home/runner/work/ATMons-server/ATMons-server/crash-reports/*.txt
-            /home/runner/work/ATMons-server/ATMons-server/logs/latest.log
-          if-no-files-found: ignore
-          retention-days: 2
-
       - name: 優雅關閉 Minecraft 伺服器（如果還活著）
         run: |
           if screen -list | grep -q "minecraft"; then
@@ -241,6 +230,17 @@ jobs:
           else
             echo "伺服器已關閉，無需再次 stop。"
           fi
+
+      - name: 📥 導出崩潰報告 (Artifact)
+        if: always() 
+        uses: actions/upload-artifact@v4
+        with:
+          name: minecraft-crash-reports
+          path: |
+            /home/runner/work/ATMons-server/ATMons-server/crash-reports/*.txt
+            /home/runner/work/ATMons-server/ATMons-server/logs/latest.log
+          if-no-files-found: ignore
+          retention-days: 2
 
       - name: 💾 備份階段：壓縮 (極限省空間)
         if: always() # 確保伺服器關閉後一定執行
