@@ -228,6 +228,7 @@ jobs:
           path: |
             /home/runner/work/ATMons-server/ATMons-server/crash-reports/*.txt
             /home/runner/work/ATMons-server/ATMons-server/logs/latest.log
+          if-no-files-found: ignore
           retention-days: 2
 
       - name: 優雅關閉 Minecraft 伺服器（如果還活著）
