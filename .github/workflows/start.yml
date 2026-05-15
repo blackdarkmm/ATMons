@@ -162,7 +162,7 @@ jobs:
       - name: 啟動 Neo-forge Server（使用 screen）
         run: |
 
-          screen -L -dmS minecraft java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.226/unix_args.txt nogui
+          screen -L -dmS minecraft java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.229/unix_args.txt nogui
 
           # 啟動 API 服務
           cd minecraft-log-stream
