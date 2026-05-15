@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:almond_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:almond_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:almond_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:almond_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

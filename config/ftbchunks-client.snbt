@@ -138,31 +138,31 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:zombie_villager": true
-			"endermanoverhaul:cave_enderman": true
-			"aquaculture:brown_trout": false
 			"creeperoverhaul:cave_creeper": true
-			"minecraft:zombie": true
-			"aquaculture:perch": false
-			"minecraft:bat": true
-			"creeperoverhaul:dripstone_creeper": true
-			"endermanoverhaul:end_enderman": true
 			"minecraft:spider": true
-			"minecraft:wandering_trader": true
-			"aquaculture:smallmouth_bass": false
-			"minecraft:creeper": true
-			"minecraft:axolotl": true
-			"minecraft:fox": true
-			"aquaculture:minnow": false
-			"minecraft:enderman": true
-			"productivebees:green_carpenter_bee": true
-			"minecraft:skeleton": true
-			"minecraft:trader_llama": true
-			"minecraft:bee": true
 			"cobblemon:pokemon": true
-			"aquaculture:bluegill": false
-			"minecraft:ender_dragon": true
+			"creeperoverhaul:dripstone_creeper": true
 			"artifacts:mimic": true
+			"minecraft:zombie": true
+			"minecraft:skeleton": true
+			"aquaculture:bluegill": false
+			"minecraft:bat": true
+			"minecraft:fox": true
+			"minecraft:bee": true
+			"minecraft:creeper": true
+			"minecraft:zombie_villager": true
+			"aquaculture:brown_trout": false
+			"minecraft:trader_llama": true
+			"minecraft:ender_dragon": true
+			"minecraft:wandering_trader": true
+			"minecraft:axolotl": true
+			"aquaculture:perch": false
+			"aquaculture:smallmouth_bass": false
+			"endermanoverhaul:end_enderman": true
+			"productivebees:green_carpenter_bee": true
+			"endermanoverhaul:cave_enderman": true
+			"minecraft:enderman": true
+			"aquaculture:minnow": false
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

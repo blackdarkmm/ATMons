@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:rippling_willow_log"
+    },
+    {
+      "item": "productivetrees:rippling_willow_wood"
+    },
+    {
+      "item": "productivetrees:rippling_willow_stripped_log"
+    },
+    {
+      "item": "productivetrees:rippling_willow_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:hoe",
     "count": 1

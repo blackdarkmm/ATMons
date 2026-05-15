@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:persimmon_log"
+    },
+    {
+      "item": "productivetrees:persimmon_wood"
+    },
+    {
+      "item": "productivetrees:persimmon_stripped_log"
+    },
+    {
+      "item": "productivetrees:persimmon_stripped_wood"
+    }
+  ],
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

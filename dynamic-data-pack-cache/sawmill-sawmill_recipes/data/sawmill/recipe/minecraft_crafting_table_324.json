@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:sweetgum_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_wood"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:crafting_table",
     "count": 1

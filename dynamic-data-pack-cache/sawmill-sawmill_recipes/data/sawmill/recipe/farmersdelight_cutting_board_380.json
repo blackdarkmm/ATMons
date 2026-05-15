@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "productivetrees:balsa_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "productivetrees:balsa_wood"
+    },
+    {
+      "item": "productivetrees:balsa_stripped_log"
+    },
+    {
+      "item": "productivetrees:balsa_stripped_wood"
     }
   ],
   "result": {

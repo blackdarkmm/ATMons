@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "minecraft:warped_hyphae"
+      "item": "integrateddynamics:menril_wood"
     },
     {
-      "item": "minecraft:stripped_warped_stem"
+      "item": "integrateddynamics:menril_log_stripped"
     },
     {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "integrateddynamics:menril_wood_stripped"
     }
   ],
   "result": {

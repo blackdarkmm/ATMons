@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:date_palm_log"
+      "item": "productivetrees:coconut_log"
     },
     {
-      "item": "productivetrees:date_palm_wood"
+      "item": "productivetrees:coconut_wood"
     },
     {
-      "item": "productivetrees:date_palm_stripped_log"
+      "item": "productivetrees:coconut_stripped_log"
     },
     {
-      "item": "productivetrees:date_palm_stripped_wood"
+      "item": "productivetrees:coconut_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

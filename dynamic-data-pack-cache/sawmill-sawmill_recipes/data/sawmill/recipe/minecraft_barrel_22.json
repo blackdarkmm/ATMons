@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blackthorn_log"
+      "item": "eternal_starlight:lunar_log"
     },
     {
-      "item": "productivetrees:blackthorn_wood"
+      "item": "eternal_starlight:lunar_wood"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_log"
+      "item": "eternal_starlight:stripped_lunar_log"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_wood"
+      "item": "eternal_starlight:stripped_lunar_wood"
     }
   ],
   "result": {

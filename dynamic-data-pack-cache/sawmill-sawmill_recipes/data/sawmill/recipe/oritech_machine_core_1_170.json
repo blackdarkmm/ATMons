@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:granny_smith_apple_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:granny_smith_apple_wood"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_stripped_wood"
     }
   ],
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

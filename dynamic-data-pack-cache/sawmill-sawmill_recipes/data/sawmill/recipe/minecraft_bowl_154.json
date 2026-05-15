@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "productivetrees:red_maple_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "productivetrees:red_maple_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "productivetrees:red_maple_stripped_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "productivetrees:red_maple_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

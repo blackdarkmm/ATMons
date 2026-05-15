@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

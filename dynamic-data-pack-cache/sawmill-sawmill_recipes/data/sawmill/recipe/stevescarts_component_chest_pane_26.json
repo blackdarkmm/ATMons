@@ -1,16 +1,11 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "forbidden_arcanus:fungyss_stem"
-    },
-    {
-      "item": "forbidden_arcanus:fungyss_hyphae"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "stevescarts:component_chest_pane",
-    "count": 10
+    "count": 7
   },
   "type": "sawmill:woodcutting"
 }

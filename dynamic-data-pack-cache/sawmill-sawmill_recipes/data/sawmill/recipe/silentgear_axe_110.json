@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pandanus_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "productivetrees:pandanus_wood"
-    },
-    {
-      "item": "productivetrees:pandanus_stripped_log"
-    },
-    {
-      "item": "productivetrees:pandanus_stripped_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

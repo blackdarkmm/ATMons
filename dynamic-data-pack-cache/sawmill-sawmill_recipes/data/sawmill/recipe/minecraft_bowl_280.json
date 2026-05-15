@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "productivetrees:pink_ivory_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "productivetrees:pink_ivory_wood"
+    },
+    {
+      "item": "productivetrees:pink_ivory_stripped_log"
+    },
+    {
+      "item": "productivetrees:pink_ivory_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

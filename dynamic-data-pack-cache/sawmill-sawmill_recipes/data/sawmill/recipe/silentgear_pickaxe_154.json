@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

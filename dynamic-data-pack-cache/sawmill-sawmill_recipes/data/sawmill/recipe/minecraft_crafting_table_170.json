@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:granny_smith_apple_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:granny_smith_apple_wood"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:crafting_table",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

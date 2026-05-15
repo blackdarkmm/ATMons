@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:hornbeam_log"
+      "item": "eternal_starlight:banyin_log"
     },
     {
-      "item": "productivetrees:hornbeam_wood"
+      "item": "eternal_starlight:banyin_wood"
     },
     {
-      "item": "productivetrees:hornbeam_stripped_log"
+      "item": "eternal_starlight:stripped_banyin_log"
     },
     {
-      "item": "productivetrees:hornbeam_stripped_wood"
+      "item": "eternal_starlight:stripped_banyin_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

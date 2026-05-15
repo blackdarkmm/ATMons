@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sour_cherry_log"
+      "item": "productivetrees:greenheart_log"
     },
     {
-      "item": "productivetrees:sour_cherry_wood"
+      "item": "productivetrees:greenheart_wood"
     },
     {
-      "item": "productivetrees:sour_cherry_stripped_log"
+      "item": "productivetrees:greenheart_stripped_log"
     },
     {
-      "item": "productivetrees:sour_cherry_stripped_wood"
+      "item": "productivetrees:greenheart_stripped_wood"
     }
   ],
   "result": {

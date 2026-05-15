@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "cobblemon:apricorn_log"
+      "item": "cobblemon:saccharine_log"
     },
     {
-      "item": "cobblemon:apricorn_wood"
+      "item": "cobblemon:saccharine_wood"
     },
     {
-      "item": "cobblemon:stripped_apricorn_log"
+      "item": "cobblemon:stripped_saccharine_log"
     },
     {
-      "item": "cobblemon:stripped_apricorn_wood"
+      "item": "cobblemon:stripped_saccharine_wood"
     }
   ],
   "result": {

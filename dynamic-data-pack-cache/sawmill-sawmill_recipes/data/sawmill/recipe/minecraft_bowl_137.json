@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:banyin_planks"
+    "item": "productivetrees:lawson_cypress_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

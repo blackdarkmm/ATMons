@@ -2300,6 +2300,7 @@ class Battle {
       case "runDynamax":
         action.pokemon.addVolatile("dynamax");
         action.pokemon.side.dynamaxUsed = true;
+		action.pokemon.canTerastallize = null;
         if (action.pokemon.side.allySide)
           action.pokemon.side.allySide.dynamaxUsed = true;
         break;

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:butternut_log"
+      "item": "productivetrees:cave_dweller_log"
     },
     {
-      "item": "productivetrees:butternut_wood"
+      "item": "productivetrees:cave_dweller_wood"
     },
     {
-      "item": "productivetrees:butternut_stripped_log"
+      "item": "productivetrees:cave_dweller_stripped_log"
     },
     {
-      "item": "productivetrees:butternut_stripped_wood"
+      "item": "productivetrees:cave_dweller_stripped_wood"
     }
   ],
   "result": {

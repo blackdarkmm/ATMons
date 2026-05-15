@@ -1,0 +1,688 @@
+{
+	"chapters/industrial_foregoing.snbt": {
+		quest.79D48F8F31B152C3.quest_subtitle: {
+			new: "Gotta go fast!"
+			old: "Gotta go fast! (WIP)"
+		}
+		quest.79D48F8F31B152C3.quest_desc: {
+			new: [
+				"&bIndustrial Foregoing &#27AEB9Souls&r adds machines to allow you to accelerate other machinery.\\n\\nThe &#27AEB9Soul Laser Base&r is the heart of this, working similarly to a Fluid Laser Base extracting Ether Gas from a Wither. It uses &9Blue Laser Lens&r to extract &#27AEB9Souls&r from a &#27AEB9Mewtwo&r, which can be extracted with &#27AEB9Soul Pipes&r, or used with AE2. These &#27AEB9Souls&r will be used by &#27AEB9Soul Surges&r, in order to accelerate blocks. Yes, I know most of you are used to extracting &#27AEB9Souls&r from a &#27AEB9Warden&r, but come on, we had to give that thing a break.\\n\\nExtracting &#27AEB9Souls&r from the &#27AEB9Mewtwo&r is a &4&lpainful&r process to the creature, meaning it takes damage from the process, and can even die from it. Stasis Chambers are highly recommended, especially with upgrades to make the healing faster."
+				"{@pagebreak}"
+				"Ensure there's a 3 block gap between the floor and the &#27AEB9Soul Laser Base&r, like so:"
+				"{image:atm:textures/questpics/industrialforegoing/soul_laser_gap.png width:100 height:100 align:center}"
+			]
+			old: [
+				"&c&lWarning: As of writing, Mewtwo is unobtainable. As a result, the Industrial Foregoing Souls mod has no use at this time.&r\\n\\n&bIndustrial Foregoing &#27AEB9Souls&r adds machines to allow you to accelerate other machinery.\\n\\nThe &#27AEB9Soul Laser Base&r is the heart of this, working similarly to a Fluid Laser Base extracting Ether Gas from a Wither. It uses &9Blue Laser Lens&r to extract &#27AEB9Souls&r from a &#27AEB9Mewtwo&r, which can be extracted with &#27AEB9Soul Pipes&r, or used with AE2. These &#27AEB9Souls&r will be used by &#27AEB9Soul Surges&r, in order to accelerate blocks. Yes, I know most of you are used to extracting &#27AEB9Souls&r from a &#27AEB9Warden&r, but come on, we had to give that thing a break.\\n\\nExtracting &#27AEB9Souls&r from the &#27AEB9Mewtwo&r is a &4&lpainful&r process to the creature, meaning it takes damage from the process, and can even die from it. Stasis Chambers are highly recommended, especially with upgrades to make the healing faster."
+				"{@pagebreak}"
+				"Ensure there's a 3 block gap between the floor and the &#27AEB9Soul Laser Base&r, like so:"
+				"{image:atm:textures/questpics/industrialforegoing/soul_laser_gap.png width:100 height:100 align:center}"
+			]
+		}
+	}
+	"chapters/mekanism.snbt": {
+		quest.6DC1E08D019FD543.quest_desc: {
+			new: [
+				"Our &7Crystals&r will need even more &lProcessing&r! \\n\\nRepeat the previous steps of making a &6&lThermal Evaporation Plant&r to create &eBrine&r. \\n\\nUse an &9&lElectrolytic Separator&r to Separate the &eChlorine &ffrom the &eBrine&r. \\n\\nThen get &bOxygen&r from putting &9Water &finto an &9&lElectrolytic Separator&r. \\n\\nCombine the &eChlorine &fand &bHydrogen &fin a &a&lChemical Infuser&r to get &3Hydrogen Chloride&r! \\n\\nWith our &c&lChemical Injector&r, we can &cInject &fthe &7Crystals&f with &3Hydrogen Chloride&r to get 2 &7Ore Shards&r from each &7Ore Crystal&r."
+				"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
+			]
+			old: [
+				"Our &7Crystals&r will need even more &lProcessing&r! \\n\\nRepeat the previous steps of making a &6&lThermal Evaporation Plant&r to create &eBrine&r. \\n\\nUse an &9&lElectrolytic Separator&r to Separate the &eChlorine &ffrom the &eBrine&r. \\n\\nThen get &bOxygen&r from putting &9Water &finto an &9&lElectrolytic Separator&r. \\n\\nCombine the &eChlorine &fand &bOxygen &fin a &a&lChemical Infuser&r to get &3Hydrogen Chloride&r! \\n\\nWith our &c&lChemical Injector&r, we can &cInject &fthe &7Crystals&f with &3Hydrogen Chloride&r to get 2 &7Ore Shards&r from each &7Ore Crystal&r."
+				"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
+			]
+		}
+	}
+	"chapters/eternal_starlight.snbt": {
+		quest.0576C32B0FB360B0.quest_desc: {
+			new: [
+				"The &l&9Lunar Monstrosity&r has 200 &4Hearts&r and will only take 1 damage from each hit unless you use Fire. \\n\\nIt has a few attacks including Ground Spikes, Projectiles, and Exploding Tangled Heads! \\n\\nWhen you kill it, it will drop Arrows, Ingots, Tangled Skulls, &9Tenacious Petals&r, &5Tenacious Vines&r, &9Soul Dew&r, and a chance at a rare Weapon!"
+				"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
+			]
+			old: [
+				"The Lunar Monstrosity has 200 Hearts and will only take 1 damage from each hit unless you use Fire. \\n\\nIt has a few attacks including Ground Spikes, Projectiles, and Exploding Tangled Heads! \\n\\nWhen you kill it, it will drop Arrows, Ingots, Tangled Skulls, Tenacious Petals, Trapped Souls, and a chance at a rare Weapon!"
+				"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
+			]
+		}
+		quest.5244B2D6B5FA0487.title: {
+			new: "&5Crystallized Desert"
+			old: "Crystallized Desert"
+		}
+		quest.636848ED1115A0B3.quest_desc: {
+			new: [
+				"&8Ratlins&r are peaceful Mobs that can spawn on the Surface. \\n\\nOn death they will drop Ratlin Meat, Leather, and Cave Moss. \\n\\nThe latter which can be used to Breed them together!"
+				"{image:atm:textures/questpics/eternal/starlight_rat.png width:100 height:100 align:center}"
+			]
+			old: [
+				"Ratlins are peaceful Mobs that can spawn on the Surface. \\n\\nOn death they will drop Ratlin Meat, Leather, and Cave Moss. \\n\\nThe latter which can be used to Breed them together!"
+				"{image:atm:textures/questpics/eternal/starlight_rat.png width:100 height:100 align:center}"
+			]
+		}
+		quest.4A5EA948F5DCEB73.quest_desc: {
+			new: ["&7Deepsilver&r used to be called Swamp Silver and only Spawned in &9Dark Swamps&r. \\n\\nNow it is found everywhere underground... that is probably why they changed the name!"]
+			old: ["Swamp Silver can be rarely found within the Nightfall Mud. \\n\\nIt can be used to craft Armor and Tools!"]
+		}
+		quest.17EC65B33AC5F0B4.quest_desc: {
+			new: [
+				"&8Thirst Walkers&r are neutral Mobs that spawn on the surface of the &5Crystallized Deserts&r. \\n\\nWhen aggro-ed they will hit you and give you Hunger. \\n\\nThey have 20 &4Hearts&r and can drop &8Tooth of Hunger&r on death."
+				"{image:atm:textures/questpics/eternal/starlight_thirst.png width:100 height:125 align:center}"
+			]
+			old: [
+				"Thirst Walkers are neutral Mobs that spawn on the surface of the Crystallized Deserts. \\n\\nWhen aggro-ed they will hit you and give you Hunger. \\n\\nThey have 20 Hearts and can drop Tooth of Hunger on death."
+				"{image:atm:textures/questpics/eternal/starlight_thirst.png width:100 height:125 align:center}"
+			]
+		}
+		quest.2E29DC243E8AD61E.quest_desc: {
+			new: [
+				"&9Shimmer Lacewings&r don't do or drop anything, they just add atmosphere. \\n\\nThey also resemble the only bug I tolerate!"
+				"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
+			]
+			old: [
+				"Shimmer Lacewings don't do or drop anything, they just add atmosphere. \\n\\nThey also resemble the only bug I tolerate!"
+				"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
+			]
+		}
+		quest.1533D98B3B2A758E.quest_desc: {
+			new: ["&7Shattered Swords&r can either be dropped from &7Lonestar Skeletons&r or crafted using the dropped &7Blades&r. \\n\\nThe &7Shattered Sword&r is used more like a Trident than a Sword, instead of hitting you'll throw it. Then, you can Right Click to bring back the &7Blade&r like a Loyalty Trident, and Right Click again to reload it if needed."]
+			old: ["Shattered Swords can either be dropped from Lonestar Skeletons or crafted using the dropped Blades. \\n\\nThe Shattered Sword is used more like a Trident than a Sword, instead of hitting you'll throw it. Then, you can Right Click to bring back the Blade like a Loyalty Trident, and Right Click again to reload it if needed."]
+		}
+		quest.40C776497D68367F.quest_desc: {
+			new: ["Vines, &dRed &fand &bBlue Crystal Moss Carpets&r, &3Lunar Berries&r, Cave Moss, and &dRed &fand &bBlue Crystal Roots&r. \\n\\nThese can be used in your Offhand with the Seeking Eye to find the &9Cursed Garden&r."]
+			old: ["Vines, Red and Blue Crystal Moss Carpets, Lunar Berries, Cave Moss, and Red and Blue Crystal Roots. \\n\\nThese can be used in your Offhand with the Seeking Eye to find the Cursed Garden."]
+		}
+		quest.70A82A5D17D558FB.quest_desc: {
+			new: ["The &bEnergy Sword&r can only be dropped from the &b&lStarlight Golem&r. \\n\\nIt works like a normal Sword but with Right Click you can dash at them while swinging it, like Genji from Overwatch! "]
+			old: ["The Energy Sword can only be dropped from the Starlight Golem. \\n\\nIt works like a normal Sword but with Right Click you can dash at them while swinging it, like Genji from Overwatch! "]
+		}
+		quest.252AD9C886DE45C8.title: {
+			new: "&9Twilight Gaze"
+			old: "Twilight Gaze"
+		}
+		quest.7FF77463F2A0E210.quest_desc: {
+			new: ["Nightfall Mud can only be found within the &9Dark Swamps&r. \\n\\nYou can make more Blocks out of it!"]
+			old: ["Nightfall Mud can only be found within the Dark Swamps. \\n\\nYou can make more Blocks out of it!"]
+		}
+		quest.375F0A098589CF29.title: {
+			new: "&bGolem Forge"
+			old: "Golem Forge"
+		}
+		quest.10AB188AC6FB24D3.quest_desc: {
+			new: [
+				"The &b&lStarlight Golem&r has 220 &4Hearts&r and 2 Modes. \\n\\n1st mode is his attack mode, here he can't be damaged instead you'll have to wait for his attacks to go before hitting him. He attacks with Fireballs, Ground Pound, or a devastating Laser Beam! \\n\\nHis 2nd mode is his charging mode; in this one he'll begin taking power from the Energy Blocks which will need to be turned off in order to damage him. \\n\\nOn death he will drop plenty of Ingots and Arrows, &bGolem Steel&r, Forge Armor Trim, and maybe even the Energy Sword!"
+				"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
+			]
+			old: [
+				"The Starlight Golem has 220 Hearts and 2 Modes. \\n\\n1st mode is his attack mode, here he can't be damaged instead you'll have to wait for his attacks to go before hitting him. He attacks with Fireballs, Ground Pound, or a devastating Laser Beam! \\n\\nHis 2nd mode is his charging mode; in this one he'll begin taking power from the Energy Blocks which will need to be turned off in order to damage him. \\n\\nOn death he will drop plenty of Ingots and Arrows, Golem Steel, Forge Armor Trim, and maybe even the Energy Sword!"
+				"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
+			]
+		}
+		quest.17D82EEA20D02EC8.quest_desc: {
+			new: ["Lining the &bSea&r floor is &5Dusted Gravel&r. \\n\\nIt can be used as a replacement for normal &7Gravel&r and can rarely drop &5Dusted Shards&r which can make other Blocks!"]
+			old: ["Lining the Sea floor is Dusted Gravel. \\n\\nIt can be used as a replacement for normal Gravel and can rarely drop Dusted Shards which can make other Blocks!"]
+		}
+		quest.63362CC33B39C627.title: {
+			new: "&bStarlit Sea"
+			old: "Starlit Sea"
+		}
+		quest.40786B63E2901D11.quest_desc: {
+			new: [
+				"Let's see how do I describe the &9Cursed Garden&r... it's a big freakin' maze! \\n\\nThere's entrances on each side and you must find your way to the middle where the &9&lLunar Monstrosity&r is!\\n\\nAll around the maze you can find chests full of Loot and &9Tangled&r!"
+				"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
+			]
+			old: [
+				"Let's see how do I describe the Cursed Garden... it's a big freakin' maze! \\n\\nThere's entrances on each side and you must find your way to the middle where the Lunar Monstrosity is!\\n\\nAll around the maze you can find chests full of Loot and Tangled!"
+				"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
+			]
+		}
+		quest.6314B892B569A0A5.quest_desc: {
+			new: ["The &9&lStarlight&r! \\n\\nA Dimension where it is constantly &9Dusk&r, and no you can't change that. \\n\\nThere is dozens of Biomes, Mobs, Bosses, and even just Blocks to find! Can you discover them all?"]
+			old: ["The Starlight! \\n\\nA Dimension where it is constantly Dusk, and no you can't change that. \\n\\nThere is dozens of Biomes, Mobs, Bosses, and even just Blocks to find! Can you discover them all?"]
+		}
+		quest.1AB17923F87AE264.quest_desc: {
+			new: [
+				"The Yeti is a name that strikes fear into all those who explore the Cold! An abominable furry creature that lives in the harshest coldest climate eating anything that dare venture there! \\n\\nWell not this Yeti, these ones are cute and friendly! They'd rather roll around than eat you. \\n\\nHeck they don't even fight back and only have 10 &4Hearts&r. \\n\\nOn death they will drop their Fur and String, the former which can be used as a replacement for Wool."
+				"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
+			]
+			old: [
+				"The Yeti is a name that strikes fear into all those who explore the Cold! An abominable furry creature that lives in the harshest coldest climate eating anything that dare venture there! \\n\\nWell not this Yeti, these ones are cute and friendly! They'd rather roll around than eat you. \\n\\nHeck they don't even fight back and only have 10 Hearts. \\n\\nOn death they will drop their Fur and String, the former which can be used as a replacement for Wool."
+				"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
+			]
+		}
+		quest.68B2D3B985FC1378.quest_desc: {
+			new: [
+				"A bright and beautiful Forest, full of &cTorreya Trees&r and &eVines&r."
+				"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
+			]
+			old: [
+				"A bright and beautiful Forest, full of Torreya Trees and Vines."
+				"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
+			]
+		}
+		quest.362F4CFD1B8B12B1.quest_desc: {
+			new: ["All living things will die in Ether as if it were Lava. Funny enough you can put it in a Bucket though! \\n\\nThe only way to get it is finding it in the Ether River. \\n\\nWhen Water touches Ether it will form &aThioquartz Blocks&r!"]
+			old: ["All living things will die in Ether as if it were Lava. Funny enough you can put it in a Bucket though! \\n\\nThe only way to get it is finding it in the Ether River. \\n\\nWhen Water touches Ether it will form Thioquartz Blocks!"]
+		}
+		quest.484ABFF266C8791E.quest_desc: {
+			new: ["&eOrbflora&r are plants that grow from the &bSea&r floor. \\n\\nThey can be harvested anytime but if you want the &eOrbflora Lights&r you'll need to wait! \\n\\nWhen they grow to the Sea Level they will flower. After flowering they will grow the &eLight&r!"]
+			old: ["Orbflora are plants that grow from the Sea floor. \\n\\nThey can be harvested anytime but if you want the Orbflora Lights you'll need to wait! \\n\\nWhen they grow to the Sea Level they will flower. After flowering they will grow the Light!"]
+		}
+		quest.03B40AB768FC0161.title: {
+			new: "&3Shimmer River"
+			old: "Shimmer River"
+		}
+		quest.49DC0BD7DC1B893C.title: {
+			new: "&5The Abyss"
+			old: "The Abyss"
+		}
+		quest.6EC289857CDC4969.title: {
+			new: "&bEnts"
+			old: "Ents"
+		}
+		quest.1815A439BA9879B7.quest_desc: {
+			new: [
+				"The &dWarm Shore&r is a pretty boring Biome and is mostly for connecting the &bStarlit Sea&r and land. \\n\\nIt has &dTwilight Sand&r with Stone beneath it. I also found, more than usual, &eSaltpeter&r here."
+				"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
+			]
+			old: [
+				"The Warm Shore is a pretty boring Biome and is mostly for connecting the Starlit Sea and land. \\n\\nIt has Twilight Sand with Stone beneath it. I also found, more than usual, Saltpeter here."
+				"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
+			]
+		}
+		quest.29A1E1FF02BD9219.quest_desc: {
+			new: [
+				"A &3Forest&r as blue as the Ocean. \\n\\nThe &3Starlight Forest&r is by far the most common biome in the &9&lStarlight&r. \\n\\nIt has dozens of &3Lunar Trees&r covering it entirely with plenty of Mobs, passive and hostile, below it."
+				"{image:atm:textures/questpics/eternal/starlight_forest.png width:200 height:100 align:center}"
+			]
+			old: [
+				"A Forest as blue as the Ocean. \\n\\nThe Starlight Forest is by far the most common biome in the Starlight. \\n\\nIt has dozens of Lunar Trees covering it entirely with plenty of Mobs, passive and hostile, below it."
+				"{image:atm:textures/questpics/eternal/starlight_forest.png width:200 height:100 align:center}"
+			]
+		}
+		quest.4147D247E4D754D0.quest_desc: {
+			new: [
+				"&7Gleeches&r are tiny little mobs that spawn in the &5Crystallized Desert&r. \\n\\nThey relentlessly want your blood and that means even through violent ways. Thankfully they only have 4 &4Hearts&r! \\n\\nOn death they might drop their &7Eggs&r which can be thrown as a projectile."
+				"{image:atm:textures/questpics/eternal/starlight_gleech.png width:100 height:100 align:center}"
+			]
+			old: [
+				"Gleeches are tiny little mobs that spawn in the Crystallized Desert. \\n\\nThey relentlessly want your blood and that means even through violent ways. Thankfully they only have 4 Hearts! \\n\\nOn death they might drop their Eggs which can be thrown as a projectile."
+				"{image:atm:textures/questpics/eternal/starlight_gleech.png width:100 height:100 align:center}"
+			]
+		}
+		quest.5466CB622A637DCD.quest_desc: {
+			new: ["Abyssal Fruit technically can spawn in any body of &9Water&r but its the only one that lives within the &3Shimmer Rivers&r. \\n\\nIt grows like &2Kelp&r from the floor up, but also works like &eGlowberries&r as in Fruit grows and can be collected from it."]
+			old: ["Abyssal Fruit technically can spawn in any body of water but its the only one that lives within the Shimmer Rivers. \\n\\nIt grows like Kelp from the floor up, but also works like Glowberries as in Fruit grows and can be collected from it."]
+		}
+		quest.342EEB042DEC2B8C.quest_desc: {
+			new: ["Magma and Geysers both spawn on the bottom of &5The Abyss&r. \\n\\nMagma will help you get down below and help keep your breath. \\n\\nGeysers just look cool!"]
+			old: ["Magma and Geysers both spawn on the bottom of The Abyss. \\n\\nMagma will help you get down below and help keep your breath. \\n\\nGeysers just look cool!"]
+		}
+		quest.3D26E7BFE0AA964A.quest_desc: {
+			new: [
+				"The Luminofish is a glowing fish that lives within &5The Abyss&r.\\n\\nThey act just like normal Fish. You can fish for them, put them in a Bucket, you can even cook them!"
+				"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
+			]
+			old: [
+				"The Luminofish is a glowing fish that lives within The Abyss.\\n\\nThey act just like normal Fish. You can fish for them, put them in a Bucket, you can even cook them!"
+				"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
+			]
+		}
+		quest.60FDCA2FDFE74056.title: {
+			new: "&dScarlet Forest"
+			old: "Scarlet Forest"
+		}
+		quest.29A1E1FF02BD9219.title: {
+			new: "&3Starlight Forest"
+			old: "Starlight Forest"
+		}
+		quest.6EC289857CDC4969.quest_desc: {
+			new: [
+				"&bEnts&r are another peaceful Mob spawning on the Surface of the &9&lStarlight&r. These spawning in the forests! \\n\\nThese little trees can drop Sticks, &3Lunar Berries&r, and &3Lunar Leaves&r on death. \\n\\nYou can use &3Lunar Berries&r to Breed them!"
+				"{image:atm:textures/questpics/eternal/starlight_ent.png width:100 height:100 align:center}"
+			]
+			old: [
+				"Ents are another peaceful Mob spawning on the Surface of the Starlight. These spawning in the forests! \\n\\nThese little trees can drop Sticks, Lunar Berries, and Lunar Leaves on death. \\n\\nYou can use Lunar Berries to Breed them!"
+				"{image:atm:textures/questpics/eternal/starlight_ent.png width:100 height:100 align:center}"
+			]
+		}
+		quest.713EF442D59501BA.quest_desc: {
+			new: ["The &5Chain of &9Souls&r can be crafted from drops by &9&lLunar Monstrosity&r. \\n\\nIt's a grappling hook! Tap Right Click to send it and once it hits something it will start reeling you in. Then, you have to Right Click again to detach it."]
+			old: ["The Chain of Souls can only be crafted from drops by the Tangled Hatred and Lunar Monstrosity. \\n\\nIt's a grappling hook! Tap Right Click to send it and once it hits something it will start reeling you in. Then, you have to Right Click again to detach it. \\n\\nAlso needed for the ATM Star!"]
+		}
+		quest.713548E540B18E07.quest_desc: {
+			new: ["The &9Moonring Bow&r can only drop from the &9&lLunar Monstrosity&r. \\n\\nIt shoots Arrows like a normal Bow but Ground Spikes will come the same direction the Arrow went!"]
+			old: ["The Moonring Bow can only drop from the Lunar Monstrosity. \\n\\nIt shoots Arrows like a normal Bow but Ground Spikes will come the same direction the Arrow went!"]
+		}
+		quest.50674FE3C6BE9990.title: {
+			new: "&3Dense Starlight Forest"
+			old: "Dense Starlight Forest"
+		}
+		quest.4DBC3B4D38CC6152.title: {
+			new: "&dCrystallized Moth"
+			old: "Crystallized Moth"
+		}
+		quest.7B5D34650BBD97D9.quest_desc: {
+			new: ["&5Aethersent&r is Dropped from &5Creteors&r and from &5Meteor Showers&r. \\n\\nMost &5Meteor Showers&r Drop a ton of them so don't worry!"]
+			old: ["Very rarely in the Starlight Dimension a Meteor Shower might occur. \\n\\nMost times the Meteors are tiny and disappear before hitting the ground. \\n\\nBut some are bigger and survive, there you will find Aethersent Ore!"]
+		}
+		quest.252AD9C886DE45C8.quest_desc: {
+			new: [
+				"&9Twilight Gaze&r are a neutral Fish located in &5The Abyss&r. \\n\\nIf you hit one, all will attack you, similar to Wolves or Zombified Piglins. If you get too far from &5The Abyss&r they will stop following you and swim back to the depths. \\n\\nThey don't drop anything on death so maybe don't hit them..."
+				"{image:atm:textures/questpics/eternal/starlight_gaze.png width:150 height:100 align:center}"
+			]
+			old: [
+				"Twilight Gaze are a neutral Fish located in The Abyss. \\n\\nIf you hit one, all will attack you, similar to Wolves or Zombified Piglins. If you get too far from The Abyss they will stop following you and swim back to the depths. \\n\\nThey don't drop anything on death so maybe don't hit them..."
+				"{image:atm:textures/questpics/eternal/starlight_gaze.png width:150 height:100 align:center}"
+			]
+		}
+		quest.29283BF1B6ED3634.quest_desc: {
+			new: ["The &7Mechanical &3Crossbow&r is made like a normal Crossbow just with &bGolem Steel&r. \\n\\nIt works like a normal Crossbow just much stronger! And can be enchanted to do even more!"]
+			old: ["The Mechanical Crossbow is made like a normal Crossbow just with Golem Steel. \\n\\nIt works like a normal Crossbow just much stronger! And can be enchanted to do even more!"]
+		}
+		quest.298963543B99734E.quest_desc: {
+			new: ["The &bStarlit Seas&r spawn their own versions of Coral! \\n\\nJust don't be like me and forget Silk Touch to pick them up..."]
+			old: ["The Starlit Seas spawn their own versions of Coral! \\n\\nJust don't be like me and forget Silk Touch to pick them up..."]
+		}
+		quest.29EC143D7E0347DE.quest_desc: {
+			new: ["The &8Dagger of Hunger&r is made with the &8Teeth of Hunger&r. No, I am not saying Tooths. \\n\\nThe &8Dagger&r has a Hunger Value. When you hit Mobs it will go up, when it's inactive it will decrease. When it gets to 100% you'll get boosts. And if it goes to 0% it will start killing you. \\n\\nWhen you hit Mobs (or Players) it will also give the Hunger effect. \\n\\nI don't blame it, I get angry when hungry too."]
+			old: ["The Dagger of Hunger is made with the Teeth of Hunger. No, I am not saying Tooths. \\n\\nThe Dagger has a Hunger Value. When you hit Mobs it will go up, when it's inactive it will decrease. When it gets to 100% you'll get boosts. And if it goes to 0% it will start killing you. \\n\\nWhen you hit Mobs (or Players) it will also give the Hunger effect. \\n\\nI don't blame it, I get angry when hungry too."]
+		}
+		quest.7A16D2EB63359294.title: {
+			new: "&3Aurora Deer"
+			old: "Aurora Deer"
+		}
+		quest.02B574B09AB45D09.quest_desc: {
+			new: [
+				"&bFreezes&r work similar to &cBlazes&r, they'll fly up and shoot a ball at you. \\n\\nJust &bFreezes&r only throw 1 ball and it will make you cold instead of warm. \\n\\nThey have 16 &4Hearts&r and will drop &bFrozen Tubes&r on death."
+				"{image:atm:textures/questpics/eternal/starlight_freeze.png width:150 height:100 align:center}"
+			]
+			old: [
+				"Freezes work similar to Blazes, they'll fly up and shoot a ball at you. \\n\\nJust Freezes only throw 1 ball and it will make you cold instead of warm. \\n\\nThey have 16 Hearts and will drop Frozen Tubes on death."
+				"{image:atm:textures/questpics/eternal/starlight_freeze.png width:150 height:100 align:center}"
+			]
+		}
+		quest.0576C32B0FB360B0.title: {
+			new: "&9&lLunar Monstrosity"
+			old: "Lunar Monstrosity"
+		}
+		quest.5424A0E1292B13EE.quest_desc: {
+			new: ["Around the &9&lStarlight&r you might find Hot Ponds. \\n\\n(These aren't a biome or structure so you'll need to just look around to find them!) \\n\\nWithin them you can find &6Thermal Springstone&r."]
+			old: ["Around the Starlight you might find Hot Ponds. \\n\\n(These aren't a biome or structure so you'll need to just look around to find them!) \\n\\nWithin them you can find Thermal Springstone."]
+		}
+		quest.1815A439BA9879B7.title: {
+			new: "&dWarm Shore"
+			old: "Warm Shore"
+		}
+		quest.3CAD0701EC16C2D8.title: {
+			new: "&9Dark Swamp"
+			old: "Dark Swamp"
+		}
+		quest.4147D247E4D754D0.title: {
+			new: "&7Gleech"
+			old: "Gleech"
+		}
+		quest.7D7BD1458CF12021.quest_desc: {
+			new: ["It is a Desert of course there's &5Cacti&r! \\n\\nThe &5Cacti&r when fully grown can grow Fruit on top of them!"]
+			old: ["It is a Desert of course there's Cacti! \\n\\nThe Cacti when fully grown can grow Fruit on top of them!"]
+		}
+		quest.36BCCF7395658A5C.quest_desc: {
+			new: ["The Bosses in the &9&lStarlight&r live in their structures. These aren't common (thankfully) so you might need assistance aka the Seeking Eyes. \\n\\nSeaking Eyes work like &aEnder Eyes&r, Right Click with them to throw them and follow them to get to the structures. \\n\\nTo set the structure you'll need a certain Item in your Offhand, items like..."]
+			old: ["The Bosses in the Starlight live in their structures. These aren't common (thankfully) so you might need assistance aka the Seeking Eyes. \\n\\nSeaking Eyes work like Ender Eyes, Right Click with them to throw them and follow them to get to the structures. \\n\\nTo set the structure you'll need a certain Item in your Offhand, items like..."]
+		}
+		quest.5DFE3CB5B0130A7A.quest_desc: {
+			new: ["There's plenty of plant life on top of the &3Shimmer River&r, some you can stand on!"]
+			old: ["There's plenty of plant life on top of the Shimmer River, some you can stand on!"]
+		}
+		quest.4D4DE266A2A325B0.quest_desc: {
+			new: ["&4Redstone&r, &bGolem Steel&r, and &8Oxidized Golem Steel&r are Items used for finding the &bGolem Forge&r. \\n\\nHold one of these (most likely &4Redstone&r which does spawn in the &9&lStarlight&r underground) in your Offhand and use the Seeking Eye to find the &bGolem Forge&r which btw is underground!"]
+			old: ["Redstone, Golem Steel, and Oxidized Golem Steel are Items used for finding the Golem Forge. \\n\\nHold one of these (most likely Redstone which does spawn in the Starlight underground) in your Offhand and use the Seeking Eye to find the Golem Forge which btw is underground!"]
+		}
+		quest.4DBC3B4D38CC6152.quest_desc: {
+			new: [
+				"&dCrystallized Moths&r spawn deep below the &5Crystallized Deserts&r. \\n\\nThey are neutral and I recommend not hitting them because they do a ton of damage! \\n\\nThey also have 10 &4Hearts&r and can drop &bStarlight &dCrystals&r or &9Shivering Gel&r on death. \\n\\nThese pretty guys and gals can be Tamed by Feeding them Meat! Then they will Fight for you."
+				"{image:atm:textures/questpics/eternal/starlight_moth.png width:125 height:100 align:center}"
+			]
+			old: [
+				"Crystallized Moths spawn deep below the Crystallized Deserts. \\n\\nThey are neutral and I recommend not hitting them because they do a ton of damage! \\n\\nThey also have 10 Hearts and can drop Starlight Crystals or Shivering Gel on death."
+				"{image:atm:textures/questpics/eternal/starlight_moth.png width:125 height:100 align:center}"
+			]
+		}
+		quest.4A54288FD22C903D.quest_desc: {
+			new: ["&2Velvetumoss&r spawns within &5The Abyss&r. \\n\\nYou can mine &2green&r ones to get &2Velvetumoss Balls&r which can either be eaten or made into a &aSlimeball&r! \\n\\nThe &4Red&r ones will spawn pretty plants!"]
+			old: ["Velvetumoss spawns within The Abyss. \\n\\nYou can mine green ones to get Velvetumoss Balls which can either be eaten or made into a Slimeball! \\n\\nThe Red ones will spawn pretty plants!"]
+		}
+		quest.7FBB431AC055FE93.quest_desc: {
+			new: ["The &7Soulit Spectator&r is crafted with a &9Soul Dew&r and a &9Nightfal Spider Eye&r. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the &7Spectator&r and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
+			old: ["The Soulit Spectator is crafted with a Trapped Soul and a Nightfal Spider Eye. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the Spectator and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
+		}
+		quest.40786B63E2901D11.title: {
+			new: "&9Cursed Garden"
+			old: "Cursed Garden"
+		}
+		quest.2DA8CE213AC3869B.quest_desc: {
+			new: ["&bStarlight &dCrystals&r can be found all over and even under the &5Crystallized Deserts&r. \\n\\nThey work similar to &5Amethyst&r and even sound like it!"]
+			old: ["Starlight Crystals can be found all over and even under the Crystallized Deserts. \\n\\nThey work similar to Amethyst and even sound like it!"]
+		}
+		quest.1ECD4331DDFBBB52.quest_desc: {
+			new: ["&cTorreya Trees&r are huge purple/pink Trees that stand around 40 Blocks tall. \\n\\nThe Leaves will sprout out in every direction and the &eTorreya Vines&r hang from them."]
+			old: ["Torreya Trees are huge purple/pink Trees that stand around 40 Blocks tall. \\n\\nThe leaves will sprout out in every direction and the Torreya Vines hang from them."]
+		}
+		quest.02B574B09AB45D09.title: {
+			new: "&bFreeze"
+			old: "Freeze"
+		}
+		quest.6E970CF05B96EB20.quest_desc: {
+			new: ["In order to damage the &b&lGolem&r you'll need to turn off his power supply! \\n\\nTo do so you'll need to Right Click the Energy Blocks when they turn blue. \\n\\nYou can usually find 2 in the corners of the boss room and 2 above him!"]
+			old: ["In order to damage the Golem you'll need to turn off his power supply! \\n\\nTo do so you'll need to Right Click the Energy Blocks when they turn blue. \\n\\nYou can usually find 2 in the corners of the boss room and 2 above him!"]
+		}
+		quest.3C74DAE7EC844A98.quest_desc: {
+			new: ["The &3Lunar Berries&r are an excellent Food Source, plus very easy to get! \\n\\nThey spawn growing down from &3Lunar Tree Leaves&r, you can pluck the &3Berries&r off the Vines like &eGlow Berries&r. \\nJust these give much more Food Points and Saturation!"]
+			old: ["The Lunar Berries are an excellent Food Source, plus very easy to get! \\n\\nThey spawn growing down from Lunar Tree Leaves, you can pluck the Berries off the Vines like Glow Berries. \\nJust these give much more Food Points and Saturation!"]
+		}
+		quest.375F0A098589CF29.quest_desc: {
+			new: [
+				"Using your Seeking Eyes you might become confused why they've suddenly gone underground. That's probably because the &bGolem Forge&r is deep underground, like in the negative Y levels. \\n\\nThere's many winding rooms each full of Loot, &cLava&f, and &bFreezes&r! The room we are looking for holds the &b&lStarlight Golem&r!"
+				"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Using your Seeking Eyes you might become confused why they've suddenly gone underground. That's probably because the Golem Forge is deep underground, like in the negative Y levels. \\n\\nThere's many winding rooms each full of Loot, Lava, and Freezes! The room we are looking for holds the Starlight Golem!"
+				"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
+			]
+		}
+		quest.3CAD0701EC16C2D8.quest_desc: {
+			new: [
+				"&9Dark Swamps&r litter the world of the &9&lStarlight&r. \\n\\nHere you can find plenty of plants, animals, and of course Mud."
+				"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Dark Swamps litter the world of the Starlight. \\n\\nHere you can find plenty of plants, animals, and of course Mud."
+				"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
+			]
+		}
+		quest.68B2D3B985FC1378.title: {
+			new: "&cTorreya Forest"
+			old: "Torreya Forest"
+		}
+		quest.636848ED1115A0B3.title: {
+			new: "&8Ratlins"
+			old: "Ratlins"
+		}
+		quest.6314B892B569A0A5.title: {
+			new: "&9&lEternal Starlight"
+			old: "Eternal Starlight"
+		}
+		quest.3991EEEFDD263A91.title: {
+			new: "&9Nightfall Spiders"
+			old: "Nightfall Spiders"
+		}
+		quest.6B00D5DBB3552F15.title: {
+			new: "&9Tangled"
+			old: "Tangled"
+		}
+		quest.6B00D5DBB3552F15.quest_desc: {
+			new: [
+				"&9Tangled&r are enemies that spawn within the &9Cursed Garden&r. \\n\\nThey have 10 &4Hearts&r and will attack by smacking you. If you get hit, you'll get a small amount of Poison. \\n\\nOn death they will drop Vines and Bones but also will spawn a Tangled Skull! \\n\\nTangled Skulls act similar to Vexes, they will fly around through blocks and hit you. They only have 5 &4Hearts&r and on death will give you them as an Item."
+				"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
+			]
+			old: [
+				"Tangled are enemies that spawn within the Cursed Garden. \\n\\nThey have 10 Hearts and will attack by smacking you. If you get hit, you'll get a small amount of poison. \\n\\nOn death they will drop Vines and Bones but also will spawn a Tangled Skull! \\n\\nTangled Skulls act similar to Vexes, they will fly around through blocks and hit you. They only have 5 Hearts and on death will give you them as an Item."
+				"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
+			]
+		}
+		quest.50674FE3C6BE9990.quest_desc: {
+			new: [
+				"Just like the normal &3Starlight Forest&r just with much less spacing within Trees!"
+				"{image:atm:textures/questpics/eternal/starlight_dense.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Just like the normal Starlight Forest just with much less spacing within Trees!"
+				"{image:atm:textures/questpics/eternal/starlight_dense.png width:200 height:100 align:center}"
+			]
+		}
+		quest.00453FF528AA0B1C.quest_desc: {
+			new: ["&7Lonestar Skeletons&r are hostile Mobs that can spawn anywhere. \\n\\nThey have 10 &4Hearts&r and will throw their Sword at you to attack you. \\n\\nOn death they can drop Bones, &7Deepsilver Nuggets&r, and &7Shattered Swords&r."]
+			old: ["Lonestar Skeletons are hostile Mobs that can spawn anywhere. \\n\\nThey have 10 Hearts and will throw their Sword at you to attack you. \\n\\nOn death they can drop Bones, Swamp Silver Nuggets, Shattered Swords, and the drops added by Corail for Undead Mobs."]
+		}
+		quest.3991EEEFDD263A91.quest_desc: {
+			new: [
+				"&9Nightfall Spiders&r, like &7Lonestar Skeletons&r, are Hostile and spawn anywhere. \\n\\nThey have 5 &4Hearts&r and attack by hitting you. After hitting you they will give you the Glowing effect for a few seconds. \\n\\nOn death they will drop String and their eyes!"
+				"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
+			]
+			old: [
+				"Nightfall Spiders, like Lonestar Skeletons, are Hostile and spawn anywhere. \\n\\nThey have 5 Hearts and attack by hitting you. After hitting you they will give you the Glowing effect for a few seconds. \\n\\nOn death they will drop String and their eyes!"
+				"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
+			]
+		}
+		quest.127D085D6C9DB690.quest_desc: {
+			new: ["&eSaltpeter&r can be found anywhere Underground but very common in the &dWarm Shore&r Biome. \\n\\nIt needs a Stone Pickaxe to mine it and when mined it will drop a couple &eSaltpeter Powder&r. Yes, Fortune works on it! \\n\\nThe &ePowder&r can be used as a replacement for other Niters."]
+			old: ["Saltpeter can be found anywhere Underground but very common in the Warm Shore Biome. \\n\\nIt needs a Stone Pickaxe to mine it and when mined it will drop a couple Saltpeter Powder. Yes, Fortune works on it! \\n\\nThe Powder can be used as a replacement for other Niters."]
+		}
+		quest.49D1EA8E812A12F6.quest_desc: {
+			new: ["It's just a neat plant. \\n\\nYou'll need a Sickle to collect it! \\n\\nI don't know why, I've never cared about plants, but Reeds are cool to me. Maybe it's the being by &9Water&r, or Cattails looking like Corndogs. I don't know but I like them."]
+			old: ["It's just a neat plant. \\n\\nYou'll need a Swamp Silver Sickle to collect it! \\n\\nI don't know why I've never cared about plants but Reeds are cool to me. Maybe it's the being by Water, or Cattails looking like Corndogs. I don't know but I like them."]
+		}
+		quest.2D457E53BB6D63C7.quest_desc: {
+			new: [
+				"Highest points in the &9&lStarlight&r is the Permafrost Forests which lie upon Mountains. \\n\\nBeing so far up makes them much colder making them covered in Snow and Ice! \\n\\nAtleast the friendly Mobs seem to enjoy the Cold!"
+				"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Highest points in the Starlight is the Permafrost Forests which lie upon Mountains. \\n\\nBeing so far up makes them much colder making them covered in Snow and Ice! \\n\\nAtleast the friendly Mobs seem to enjoy the Cold!"
+				"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
+			]
+		}
+		quest.0F0D41F29386333A.quest_desc: {
+			new: ["&dScarlet Trees&r range in size and shape and even sometimes fallen down! \\n\\nBut all have &dpink Leaves&r! Including the ones on the ground."]
+			old: ["Scarlet Trees range in size and shape and even sometimes fallen down! \\n\\nBut all have pink leaves! Including the ones on the ground."]
+		}
+		quest.0C096EE635645E43.quest_desc: {
+			new: ["The &dCrystal &bCrossbow&r is a crafted like a &7Mechanical &3Crossbow&r just with &bCrystals&r instead of sticks. \\n\\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
+			old: ["The Crystal Crossbow is a crafted like a Mechanical Crossbow just with Crystals instead of sticks. \\n\\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
+		}
+		quest.0F4783FA019C4567.quest_desc: {
+			new: ["&4Amaramber&r is found rarely by stripping &cTorreya Logs&r. \\n\\nIt can be crafted into Ingots to make Armor and Tools or used in other recipes like a campfire which will you give you regen!"]
+			old: ["Amaraber is found rarely by stripping Torreya Logs. \\n\\nIt can be crafted into Ingots to make Armor and Tools or used in other recipes like a campfire which will you give you regen!"]
+		}
+		quest.5244B2D6B5FA0487.quest_desc: {
+			new: [
+				"&5Crystallized Desert&r looks like a normal Desert but shaded &5Purple&r. \\n\\nAlso with added giant crystals, I don't think normal Deserts have that..."
+				"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Crystallized Desert looks like a normal Desert but shaded Purple. \\n\\nAlso with added giant crystals, I don't think normal Deserts have that..."
+				"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
+			]
+		}
+		quest.4C23D7E3DC8327C2.quest_desc: {
+			new: ["In order to kill the &9&lLunar Monstrosity&r you'll need to set it on Fire! \\n\\nYou can use Flint and Steel or a &eSaltpeter Matchbox&r. \\n\\nPersonally I think the &eMatchbox&r is more fitting!"]
+			old: ["In order to kill the Lunar Monstrosity you'll need to set it on Fire! \\n\\nYou can use Flint and Steel or a Saltpeter Matchbox. \\n\\nPersonally I think the Matchbox is more fitting!"]
+		}
+		quest.4D4DE266A2A325B0.title: {
+			new: "&l&bGolem&r Items"
+			old: "Golem Items"
+		}
+		quest.4D53D9BBD8279282.quest_desc: {
+			new: ["&3Lunar Trees&r can range from massive towering &3Trees&r, to itty bitty ones. They adapt to take as much room as they can! (That would explain &3Dense Forests&r). \\n\\nThey plant like normal Saplings and can have &3Lunar Berries&r spawn from their leaves!"]
+			old: ["Lunar Trees can range from massive towering Trees, to itty bitty ones. They adapt to take as much room as they can! (That would explain Dense Forests). \\n\\nThey plant like normal Saplings and can have Lunar Berries spawn from their leaves!"]
+		}
+		quest.62F33BBE7BDFE404.quest_desc: {
+			new: ["&5Wand of &bTeleportation&r is another drop from the &9Lunar Monstrosity&r, and only that! \\n\\nYou can hold Right Click with the Wand to start it, then when you release it will teleport you to the Block you were looking at last! \\n\\nThere is a range but it's pretty far. And there is a cooldown after use!"]
+			old: ["Wand of Teleportation is another drop from the Lunar Monstrosity, and only that! \\n\\nYou can hold Right Click with the Wand to start it, then when you release it will teleport you to the Block you were looking at last! \\n\\nThere is a range but it's pretty far. And there is a cooldown after use!"]
+		}
+		quest.2E29DC243E8AD61E.title: {
+			new: "&9Shimmer Lacewing"
+			old: "Shimmer Lacewing"
+		}
+		quest.00453FF528AA0B1C.title: {
+			new: "&7Lonestar Skeletons"
+			old: "Lonestar Skeletons"
+		}
+		quest.516AC1F0E0BCAE55.quest_desc: {
+			new: ["&bFrozen Tubes&r are dropped from &bFreezes&r in the &bGolem Forge&r. \\n\\nThey can be thrown like Potions to hurt whoever it hits."]
+			old: ["Frozen Tubes are dropped from Freezes in the Golem Forge. \\n\\nThey can be thrown like Potions to hurt whoever it hits."]
+		}
+		quest.54DE8AAAE2181F18.quest_desc: {
+			new: ["The &dMoonring Greatsword&r no longer needs Drops from both Bosses, now it only needs you to Kill the &9&lLunar Monstrosity&r. \\n\\nIt works like a normal Sword, just before 1.9. It can block attacks like a shield, but it can't be spammed for full damage."]
+			old: ["The Moonring Greatsword needs to be crafted from drops by both Bosses! Obviously making it the hardest to get and the most powerful! \\n\\nIt works like a normal Sword, just before 1.9. It can block attacks like a shield, but it can't be spammed for full damage."]
+		}
+		quest.60FDCA2FDFE74056.quest_desc: {
+			new: [
+				"IT'S &dPINK&r! \\n\\nHere you will find &dScarlet Trees&r with their dropped leaves piled below them. You can also find Glowing Mushrooms here!"
+				"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
+			]
+			old: [
+				"IT'S PINK! \\n\\nHere you will find Scarlet Trees with their dropped leaves piled below them. You can also find Glowing Mushrooms here!"
+				"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
+			]
+		}
+		quest.25E782DB4309A1B8.quest_desc: {
+			new: ["&3Aurora Deer Antlers&r are dropped by &3Aurora Deers&r on death. \\n\\nIt can be used as a Sword or a Hoe."]
+			old: ["Aurora Deer Antlers are dropped by Aurora Deers on death. \\n\\nIt can be used as a Sword or a Hoe."]
+		}
+		quest.7A16D2EB63359294.quest_desc: {
+			new: [
+				"&3Aurora Deers&r are friendly hooved animals who also live in the cold. \\n\\nThese &3Deers&r won't try to harm you but if you get in their way when you run you might feel some &3Antlers&r. \\n\\n&3Antlers&r which can also be dropped by them on death which can be used as either a weapon or a hoe! \\n\\nThey might also drop Leather or Aurora Deer Steak."
+				"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Aurora Deers are friendly hooved animals who also live in the cold. \\n\\nThese Deers won't try to harm you but if you get in their way when you run you might feel some Antlers. \\n\\nAntlers which can also be dropped by them on death which can be used as either a weapon or a hoe! \\n\\nThey might also drop Leather or Aurora Deer Steak."
+				"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
+			]
+		}
+		quest.17EC65B33AC5F0B4.title: {
+			new: "&8Thirst Walker"
+			old: "Thirst Walker"
+		}
+		quest.429785E8F64929CE.quest_desc: {
+			new: ["In order to get to the &9&lStarlight Dimension&r you'll need to find &7Portal Ruins&r in the &2&lOverworld&r. \\n\\nThere you will find a &7&lGatekeeper&r, Right Click to initiate a conversation and challenge them to a duel! Careful, they are very tough. \\n\\nThe Gatekeeper will also deem you worthy if you have defeated the Ender Dragon, and allow you to skip the duel.\\n\\nOnce you win the duel you'll be gifted a few Items, the &3Orb of Prophecy&r being one. Right Click the &7Portal&r with the &3Orb&r to activate it! Then, walk in to get to the..."]
+			old: ["In order to get to the Starlight Dimension you'll need to find Portal Ruins in the Overworld. \\n\\nThere you will find a Gatekeeper, Right Click to initiate a conversation and challenge them to a duel! Careful, they are very tough. \\n\\nOnce you win the duel you'll be gifted a few Items, the Orb of Prophecy being one. Right Click the Portal with the Orb to activate it! Then, walk in to get to the..."]
+		}
+		quest.40C776497D68367F.title: {
+			new: "&9&lMonstrosity&r Items"
+			old: "Monstrosity Items"
+		}
+		quest.15195F456D8AD4C8.quest_desc: {
+			new: ["When Ether touches &9Water&r, &aThioquartz&r will form. This can happen naturally with random generation or you can make it happen! \\n\\nThese aren't how we get Shards though, those are from &aBudding Thioquartz&r!"]
+			old: ["When Ether touches Water Thioquartz will form. This can happen naturally with random generation or you can make it happen! \\n\\nThese aren't how we get Shards though, those are from Budding Thioquartz!"]
+		}
+		quest.37355F60E45777FE.quest_desc: {
+			new: ["The &3Orb of Prophecy&r can be crafted or obtained through beating the &7&lGatekeeper&r! \\n\\nIt's main use is activating the Portal, but there will be more uses for it!"]
+			old: ["The Orb of Prophecy can be crafted or obtained through beating the Gatekeeper! \\n\\nIt's main use is activating the Portal, but there will be more uses for it!"]
+		}
+		quest.3D4032E7119AF8B7.quest_desc: {
+			new: ["&5Sonar Bombs&r are made with &9Shivering Gel&r which is dropped from &dCrystallized Moths&r. \\n\\nThey can be thrown to damage any Mob (and Player) in a huge area! It will also shake the players screen and play a loud sound effect. \\n\\nIt is disorienting so only use it on your friends!"]
+			old: ["Sonar Bombs are made with Shivering Gel which is dropped from Crystallized Moths. \\n\\nThey can be thrown to damage any Mob (and Player) in a huge area! It will also shake the players screen and play a loud sound effect. \\n\\nIt is disorienting so only use it on your friends!"]
+		}
+		quest.49DC0BD7DC1B893C.quest_desc: {
+			new: ["&5The Abyss&r are deep trenches within &bStarlit Seas&r. These going as far down as -50! \\n\\nThey have multiple colored layers of Stone lining them and hold many different Blocks, Mosses, and Fish!"]
+			old: ["The Abyss are deep trenches within Starlit Seas. These going as far down as -50! \\n\\nThey have multiple colored layers of Stone lining them and hold many different Blocks, Mosses, and Fish!"]
+		}
+		quest.10AB188AC6FB24D3.title: {
+			new: "&b&lStarlight Golem"
+			old: "Starlight Golem"
+		}
+		quest.770C0975CA61CE46.quest_desc: {
+			new: ["&bGlacite&r can be found deep underground in the Permafrost Forests. \\n\\nIt can be used to craft Armor and Tools which help against Freezing damage!"]
+			old: ["Glacite can be found deep underground in the Permafrost Forests. \\n\\nIt can be used to craft Armor and Tools which help against Freezing damage!"]
+		}
+		quest.03B40AB768FC0161.quest_desc: {
+			new: [
+				"&3Shimmer Rivers&r are friendly rivers. These won't go out of their way to kill you. \\n\\nThey sometimes connect &bSeas&r together and go through Forests. \\n\\nClearly they have &9Water&r but within the &9Water&r is plenty of goods!"
+				"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Shimmer Rivers are friendly rivers. These won't go out of their way to kill you. \\n\\nThey sometimes connect Seas together and go through Forests. \\n\\nClearly they have Water but within the Water is plenty of goods!"
+				"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
+			]
+		}
+		quest.47CB136D7764B86D.quest_desc: {
+			new: ["&eTorreya Vines&r are found hanging from &cTorreya Trees&r. \\n\\nThey are hanging because they can't be placed any other way... \\n\\nThe bulb at the bottom of them will emit Light!"]
+			old: ["Torreya Vines are found hanging from Torreya Trees. \\n\\nThey are hanging because they can't be placed any other way... \\n\\nThe bulb at the bottom of them will emit Light!"]
+		}
+	}
+	"chapters/content_creators.snbt": {
+		quest.7AB52F600829F468.quest_desc: {
+			new: ["From one of the most well know &2&lMinecraft&r streamers to another, now it's time to face off against &b&lChosen Architect&r. \\n\\nHe has his own person tower, the &bChosen Tower&r he will spawn in. \\n\\nDon't let all those feelings of love and nostalgia for his videos and Modpacks prevent you from beating him. \\n\\n&cPokemon&r comes before love, you should know this by now!"]
+			old: ["From one of the most well know &2&lMinecraft&r streamers to another, now it's time to face off against &b&lChosen Architect&r. \\n\\nDon't let all those feelings of love and nostalgia for his videos and Modpacks prevent you from beating him. \\n\\n&cPokemon&r comes before love, you should know this by now!"]
+		}
+		quest.13EB9A996928ED60.quest_desc: {
+			new: ["Last but certainly not least is &5&lNofaxu&r! \\nHe spawns with &c&lDanrique&r in the &cFuturistic &5Steelworks&r. \\n\\nIf you do beat him, 1. give yourself a pat on the back because you just won against a guy with over a Million Subscribers on Youtube! And 2. you will have finished the &4&oSeries&r. \\n\\nBut hey, if you do start feeling regret and guilt for mercilessly destroying your favorite Creators in &l&cAll&7The&fMons&r, you know, the ones who spent their whole careers helping you to better understand and enjoy the games you love so much... you can make it even, by checking out their channels!"]
+			old: ["Last but certainly not least is &5&lNofaxu&r! \\nIf you do beat him, 1. give yourself a pat on the back because you just won against a guy with over a Million Subscribers on Youtube! And 2. you will have finished the &4&oSeries&r. \\n\\nBut hey, if you do start feeling regret and guilt for mercilessly destroying your favorite Creators in &l&cAll&7The&fMons&r, you know, the ones who spent their whole careers helping you to better understand and enjoy the games you love so much... you can make it even, by checking out their channels!"]
+		}
+		quest.261E8EE0C7E7E2F0.quest_desc: {
+			new: ["&c&lDanrique&r! The only one who came with a Skin that matches the theme! \\n\\nYou can find him in the &cFuturistic &5Steelworks&r Structure! \\n\\nLook for the Content Creator who is styled after someone who'd beat you in a &cPokemon&r Battle... then beat him instead!"]
+			old: ["&c&lDanrique&r! The only one who came with a Skin that matches the theme! \\n\\nLook for the Content Creator who is styled after someone who'd beat you in a &cPokemon&r Battle... then beat him instead!"]
+		}
+		quest.507635FE52E22D7D.quest_desc: {
+			new: ["Going from a &cPokemon&r themed Skin to someone using the Steve Skin, it's &3&lDirewolf20&r! \\n\\nYou can find him in the &3DW House&r, aka &3DireWolf House&r! \\n\\nKnown for making and playing Mods for years. Now he'll be known for losing to you as well! \\n\\n&3&lJust Dire Things&r won't help you here &3&lDirewolf&r!"]
+			old: ["Going from a &cPokemon&r themed Skin to someone using the Steve Skin, it's &3&lDirewolf20&r! \\n\\nKnown for making and playing Mods for years. Now he'll be known for losing to you as well! \\n\\n&3&lJust Dire Things&r won't help you here &3&lDirewolf&r!"]
+		}
+		quest.273605A191309522.quest_desc: {
+			new: ["After &9&lBucketST&r is &lPilpoh&r. \\n\\nInstead of using an &6Allthemodium Ingot&r he actually uses White Concrete to summon him with a &4Trainer Spawner&r. \\n\\nKnowing him he'll make a series of him playing &l&cAll&7The&fMons&r... does that mean he'll end up fighting himself? That feels... weird."]
+			old: ["After &a&lMinitho Player&r is &lPilpoh&r. \\n\\nInstead of using an &6Allthemodium Ingot&r he actually uses White Concrete to summon him with a &4Trainer Spawner&r. \\n\\nKnowing him he'll make a series of him playing &l&cAll&7The&fMons&r... does that mean he'll end up fighting himself? That feels... weird."]
+		}
+	}
+	"chapters/chapter_2_the_star.snbt": {
+		quest.7D1A27CBF1508712.title: {
+			new: "&aZygarde Cube"
+			old: "Zygarde Cube"
+		}
+		quest.5B2FD54E425D5C9D.quest_desc: {
+			new: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbinger&r a Nether Star to power it up and kill it! &4&lThe Harbinger&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
+			old: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
+		}
+		quest.2A444F4CCC72545D.quest_desc: {
+			new: ["The easiest Item we'll need for the &6&lATM Star&r from &4&lCataclysm&r is the &5Abyssal Sacrifice&r. \\n\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\n\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop Nautilus Shells! \\n\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
+			old: ["The easiest Item we'll need for the &6&lATM Star&r from &4&lCataclysm&r is the &5Abyssal Sacrifice&r. \\n\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\n\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop them! \\n\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
+		}
+		quest.4E8C32CD6057A1AB.quest_desc: {
+			new: ["The &cBlaze Burner&r is actually probably one of the easiest &6&lStar&r Ingredients! \\n\\nFirst, we'll need an &cEmpty Blaze Burner&r. These are just 4 &7Iron Plates&r and a single &cNetherrack&r. \\n\\nThen, take your &cEmpty Blaze Burner&r and find a &cBlaze&r. You should know where they spawn but incase you don't: &cBlazes&r spawn in Structures in &c&lThe Nether&r. Just Right Click the &cBlaze&r with the &cEmpty Blaze Burner&r to capture it! \\n\\nOnce captured, it can be used to make the &c&lPhilosopher's Fuel&r."]
+			old: ["To make the &c&lPhilosopher's Fuel&r, you need to craft the &cBlaze Burner&r. \\n\\nThis &ccomponent&r is essential for crafting this powerful (or almost) fuel, so there’s no skipping this step! \\n\\nMake sure to gather everything you need to craft your &cBlaze Burner&r before moving forward."]
+		}
+		quest.0923C941A9696122.quest_desc: {
+			new: ["Incase you have to bring 256 Million Items on an Adventure with you! \\n\\nYou'll need a few simple Items like &8MEGA Item Cell Housing&r, &5ME Chest&r, and a &5Dense Energy Cell&r. \\n\\nAnd we'll then need the &d256M MEGA Storage Component&r... this one is much harder to make."]
+			old: ["Incase you have to bring 256 Million Items on an Adventure with you! \\n\\nYou'll need a few simple Items like &8MEGA Item Cell Housing&r, &5ME Chest&r, and a &5Dense Energy Cell&r. \\n\\nAnd we'll then need the &d256M MEGA Storage Component&r... this one is much harder to make. \\n\\nIf repetitive Crafting makes you hate &2&lMinecraft&r, then you might want to Craft the &2Blastproof Casing&r! \\n\\nWe'll need either 2 256M Portable Item Cells, 2 &2Blastproof Casings&r, or a mix of both to Craft the &3&lImprobable Probability Device&r."]
+		}
+		quest.5A955C0F53AED3ED.quest_desc: {
+			new: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThese are drops from the &9Lunar Monstrosity&r. "]
+			old: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
+		}
+		quest.7D1A27CBF1508712.quest_desc: {
+			new: ["I don't know how the Mod wants you to get it, but we want you to get it with an &c&lAssembler&r from &6&lOritech&r combining 2 &aSpirited Crystals&f and 2 &aTime Crystals&r. \\n\\nThe &aSpirited Crystal&r is from &c&lPowah&r. You take an &aEmerald&r, place it into an Energizing Orb, then use Energizing Rods to shoot Energy at it. \\n\\nEnergizing Rods when aimed toward an Orb will automatically take out Energy from it and into the Item within the Orb. Each &aEmerald&r will need 1MFe to become a &aSpirited Crystal&r. \\n\\nThe other Item is &aTime Crystals&r from &3&lJust Dire Things&r. &aTime Crystals&r grow like &5Amethyst&r off &aBudding Time Crystals&r. \\n\\nTo make &aBudding Time Crystal&r we'll need to have a &5Budding Amethyst Block&r next to &9Shadowpulse Goo&r. Then, feed the Goo! \\n\\nThere's a lot more to keeping our &aTime Crystals&r coming... thankfully it is explained more in the &3&lJust Dire Things&r Questline!"]
+			old: ["It's a cube, as all things should be."]
+		}
+		quest.486B5A605D79EA10.quest_desc: {
+			new: ["The &cManhattan &aModule&r is a complicated Recipe. It needs &cTNT&r, &dPlutonium Pellets&r, and &5Heisenberg Compensators&r. Okay maybe 2/3 of it is complicated. \\n\\nTo make &dPlutonium Pellets&r, start by Energizing &5Amethyst Shards&r. This will make &5Fluxite&r, which can be used with &aUranium Dust&r in a &l&5Particle Accelerator&r to make &dPlutonium Dust&r. \\n\\n&dPlutonium Dust&r can be Crafted with Plastic Sheets and an Ingot to make our &dPellets&r. \\n\\nThe &5Heisenberg Compensator&r has 2 Recipes we can use. Each will need the &c&lAtomic Forge&r to &cEngrave&r them with &bAdamant Ingots&r. \\n\\n1. Is with &bUnholy Intelligence&r. Which is created by filling a &2Dubious Container&r with &5Strange Matter&r. &5Strange Matter&r is found by putting &cLava&r and an &3Enderic Compound&r through a &d&lFluid Refinery&r with 2 Extra Chambers attached to it. \\n\\n2. Is with the &eSuper AI Chip&r. AI in &2&lMinecraft&r? Yes, and it requires a Recipe Tree of &cEngraving&r, with the &c&lAtomic Forge&r, in order to Craft. Lots of &8Silicon&r for sure."]
+			old: [""]
+		}
+		quest.03564837ECB5CC79.quest_desc: {
+			new: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a &2Dragon Familiar&r. You will have to throw a Creature Catcher at it to use it for the &6&lATM Star&r.\\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
+			old: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
+		}
+		quest.4B7D387CEFF9667E.quest_desc: {
+			new: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC."]
+			old: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC. \\n\\nIf it has been so long that you don't remember how to use &6&lCreate&r, you can use &7&lModern Industrialization&r to Craft the &6&lATM Star&r."]
+		}
+		quest.5608C74936CA9E81.quest_desc: {
+			new: ["The &6Mechanical Arm&r is a very confusing but also very helpful Machine from &6&lCreate&r. Thank God, I don't need to explain how to use them, only how to Craft them! \\n\\nFirst, and simplest is the &8Andesite Alloy&r. That is just 2 &8Andesite Blocks&r and 2 &7Zinc/Iron Nuggets&r. \\n\\nNext, is the &eBrass Plates &fand &eCasing&r. Both obviously require &eBrass&r which is an Alloy made of &6Copper&r and &7Zinc&r! \\n\\nLast, is definitely the most difficult of these, the &ePrecision Mechanism&r. You'll need a whole set up of &6Deployers &fand &eBelts&r to keep moving our &eGold Plate&r to add more Items to it. \\n\\n1st step: is using the &6Deployer&r to add a &dCogwheel&r to our &eGold Plate&r. 2nd: is using similar to add a &dLarge Cogwheel&r to it. 3rd step: has us adding an &7Iron Nugget&r with the &6Deployer&r. \\n\\nWe'll need to repeat this 5 times to hopefully get our &ePrecision Mechanism&r! Yep, there is an 20% you won't get the Item in the end!"]
+			old: ["The &6Mechanical Arm&r is a very confusing but also very helpful Machine from &6&lCreate&r. Thank God, I don't need to explain how to use them, only how to Craft them! \\n\\nFirst, and simplest is the &8Andesite Alloy&r. That is just 2 &8Andesite Blocks&r and 2 &7Zinc/Iron Nuggets&r. \\n\\nNext, is the &eBrass Plates &fand &eCasing&r. Both obviously require &eBrass&r which is an Alloy made of &6Copper&r and &7Zinc&r! \\n\\nLast, is definitely the most difficult of these, the &ePrecision Mechanism&r. You'll need a whole set up of &6Deployers &fand &eBelts&r to keep moving our &eGold Plate&r to add more Items to it. \\n\\n1st step: is using the &6Deployer&r to add a &dCogwheel&r to our &eGold Plate&r. 2nd: is using similar to add a &dLarge Cogwheel&r to it. 3rd step: has us adding an &7Iron Nugget&r with the &6Deployer&r. \\n\\nWe'll need to repeat this 5 times to hopefully get our &ePrecision Mechanism&r! Yep, there is an 20% you won't get the Item in the end! \\n\\nHey, if you don't like all this work, you can always Craft the &6Large Advanced Motor&r."]
+		}
+		quest.4BD203AD481DDE8F.quest_desc: {
+			new: ["The &4Meat Shredder&r is made from &4Witherite&r, which is a Drop from &4&lThe Harbinger&r. \\n\\nYou'll need to find the &4Ancient Factory&r which lies deep underground in the &2&lOverworld&r. \\n\\nThen you'll find the powered down &4&lHarbinger&r, to power it up we'll need to feed it a Nether Star! \\n\\nThen, after a very difficult and long boss fight, you can Craft the &4Meat Shredder&r!"]
+			old: ["The &4Meat Shredder&r is made from &4Witherite&r, which is a Drop from &4&lThe Harbringer&r. \\n\\nYou'll need to find the &4Ancient Factory&r which lies deep underground in the &2&lOverworld&r. \\n\\nThen you'll find the powered down &4&lHarbringer&r, to power it up we'll need to feed it a Nether Star! \\n\\nThen, after a very difficult and long boss fight, you can Craft the &4Meat Shredder&r!"]
+		}
+		quest.03564837ECB5CC79.title: {
+			new: "&2Dragon Familiar&r in a Creature Catcher"
+			old: "&2Dragon Familiar&r Spawn Egg"
+		}
+	}
+	"chapters/basic_armor.snbt": {
+		quest.34D14B807A2DAC0F.quest_desc: {
+			new: ["You think &5&lMekanism&r can have all the fun? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no where you are. "]
+			old: ["You think &5&lMekanism&r and &l&7Modern Industrialization&r can have all the fun? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no where you are. "]
+		}
+	}
+	"chapters/extended__advanced_ae.snbt": {
+		quest.78215D704E6095B0.quest_desc: {
+			new: ["You think &5&lMekanism&r can have all the fun with its end game armor sets? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no matter where you are. \\n\\nFurthermore, wearing the full set can prevent &aRadiation&r from killing you."]
+			old: ["You think &5&lMekanism&r and &l&7Modern Industrialization&r can have all the fun with their end game armor sets? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no matter where you are. \\n\\nFurthermore, wearing the full set can prevent &aRadiation&r from killing you."]
+		}
+	}
+}

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "cobblemon:saccharine_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "cobblemon:saccharine_wood"
     },
     {
-      "item": "integrateddynamics:menril_log_stripped"
+      "item": "cobblemon:stripped_saccharine_log"
     },
     {
-      "item": "integrateddynamics:menril_wood_stripped"
+      "item": "cobblemon:stripped_saccharine_wood"
     }
   ],
   "result": {

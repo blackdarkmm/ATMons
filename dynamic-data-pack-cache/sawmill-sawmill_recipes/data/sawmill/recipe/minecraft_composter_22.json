@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
+      "item": "integrateddynamics:menril_wood"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_log"
+      "item": "integrateddynamics:menril_log_stripped"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "integrateddynamics:menril_wood_stripped"
     }
   ],
   "result": {

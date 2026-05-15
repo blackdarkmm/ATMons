@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mandarin_log"
+      "item": "productivetrees:pandanus_log"
     },
     {
-      "item": "productivetrees:mandarin_wood"
+      "item": "productivetrees:pandanus_wood"
     },
     {
-      "item": "productivetrees:mandarin_stripped_log"
+      "item": "productivetrees:pandanus_stripped_log"
     },
     {
-      "item": "productivetrees:mandarin_stripped_wood"
+      "item": "productivetrees:pandanus_stripped_wood"
     }
   ],
   "result": {

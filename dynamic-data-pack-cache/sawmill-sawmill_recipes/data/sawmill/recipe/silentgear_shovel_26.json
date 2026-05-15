@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:myrtle_ebony_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:myrtle_ebony_wood"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_stripped_log"
+    },
+    {
+      "item": "productivetrees:myrtle_ebony_stripped_wood"
     }
   ],
   "result": {

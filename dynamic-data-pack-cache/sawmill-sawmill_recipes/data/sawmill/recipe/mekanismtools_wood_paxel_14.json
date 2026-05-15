@@ -1,23 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:beliy_naliv_apple_log"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_wood"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1
   },
-  "ingredient_count": 2,
+  "ingredient_count": 4,
   "type": "sawmill:woodcutting"
 }

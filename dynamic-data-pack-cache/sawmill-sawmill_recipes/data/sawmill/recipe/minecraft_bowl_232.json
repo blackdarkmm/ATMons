@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "productivetrees:silver_lime_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
+      "item": "productivetrees:silver_lime_wood"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_log"
+      "item": "productivetrees:silver_lime_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "productivetrees:silver_lime_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

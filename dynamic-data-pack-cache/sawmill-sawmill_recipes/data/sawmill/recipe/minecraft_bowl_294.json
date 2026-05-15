@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_blackthorn_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "productivetrees:purple_blackthorn_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

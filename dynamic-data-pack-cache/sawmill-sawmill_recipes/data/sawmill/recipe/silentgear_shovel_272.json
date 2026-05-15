@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sequoia_log"
+      "item": "productivetrees:whitebeam_log"
     },
     {
-      "item": "productivetrees:sequoia_wood"
+      "item": "productivetrees:whitebeam_wood"
     },
     {
-      "item": "productivetrees:sequoia_stripped_log"
+      "item": "productivetrees:whitebeam_stripped_log"
     },
     {
-      "item": "productivetrees:sequoia_stripped_wood"
+      "item": "productivetrees:whitebeam_stripped_wood"
     }
   ],
   "result": {
