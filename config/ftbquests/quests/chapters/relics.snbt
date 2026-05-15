@@ -371,7 +371,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "25DB66CF433EA60F"
-				item: { components: { "relics:data": { abilities: { abilities: { pack: { lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage_modifier: { initialQuality: 3 }, pet_radius: { initialQuality: 6 }, resistance_per_pet: { initialQuality: 7 }, revival_cost: { initialQuality: 4 } } }, slots: { lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:hunting_belt" }
+				item: { components: { "relics:data": { abilities: { abilities: { pack: { lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage_modifier: { initialQuality: 3 }, pet_radius: { initialQuality: 6 }, resistance_per_pet: { initialQuality: 7 }, revival_cost: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "relics:hunting_belt" }
 				type: "item"
 			}]
 			x: -2.0d

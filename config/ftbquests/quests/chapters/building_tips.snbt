@@ -1392,7 +1392,7 @@
 			}]
 			tasks: [{
 				id: "6AA15FFFC5961428"
-				item: { components: { "relics:data": { abilities: { abilities: { digging: { lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { bare_hands_speed: { initialQuality: 7 }, momentum_per_block: { }, momentum_window: { initialQuality: 4 }, speed: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:digging_claws" }
+				item: { components: { "relics:data": { abilities: { abilities: { claws: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.20861d } } }, fast_mining: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.32347d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:digging_claws" }
 				type: "item"
 			}]
 			x: -1.0d
